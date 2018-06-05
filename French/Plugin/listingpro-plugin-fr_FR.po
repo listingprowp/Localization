@@ -3,17 +3,17 @@ msgstr ""
 "Project-Id-Version: listingpro-plugin\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-09 09:20+0000\n"
-"POT-Revision-Date: Tue Mar 08 2016 16:05:54 GMT+0500 (Pakistan Standard Time)"
-"\n"
-"PO-Revision-Date: 2017-08-26 18:54+0000\n"
+"POT-Revision-Date: Tue Mar 08 2016 16:05:54 GMT+0500 (Pakistan Standard "
+"Time)\n"
+"PO-Revision-Date: 2018-06-05 13:30+0200\n"
 "Last-Translator: prazlideslo3925 <stmedias@stmedias.com>\n"
 "Language-Team: French (France)\n"
-"Plural-Forms: nplurals=2; plural=n > 1\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Loco - https://localise.biz/\n"
+"X-Generator: Poedit 2.0.7\n"
 "X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
 "__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
 "_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
@@ -21,8 +21,8 @@ msgstr ""
 "esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
 "X-Poedit-Basepath: ..\n"
 "X-Textdomain-Support: yes\n"
+"Language: fr_FR\n"
 "X-Poedit-SearchPath-0: .\n"
-"Language: fr-FR"
 
 #: functions.php:852
 msgid "Verify your purchase code to unlock all features, see "
@@ -102,7 +102,7 @@ msgstr ""
 
 #: inc/claims.php:15
 msgid "View Claim"
-msgstr ""
+msgstr "View Claim"
 
 #: inc/claims.php:16
 msgid "All Claims"
@@ -178,8 +178,8 @@ msgstr ""
 
 #: inc/metaboxes-plans.php:156
 msgid ""
-"Price (Do not use currency sign)(Empty field will be considered as free plan."
-" Free plan option only works in \"Pay per Listing\" )"
+"Price (Do not use currency sign)(Empty field will be considered as free "
+"plan. Free plan option only works in \"Pay per Listing\" )"
 msgstr ""
 
 #: inc/metaboxes-plans.php:236
@@ -303,12 +303,12 @@ msgstr ""
 msgid "Google Address"
 msgstr ""
 
-#: inc/metaboxes/post-options.php:233 shortcodes/edit.php:360 
+#: inc/metaboxes/post-options.php:233 shortcodes/edit.php:360
 #: shortcodes/submit.php:349
 msgid "Latitude"
 msgstr ""
 
-#: inc/metaboxes/post-options.php:238 shortcodes/edit.php:364 
+#: inc/metaboxes/post-options.php:238 shortcodes/edit.php:364
 #: shortcodes/submit.php:353
 msgid "Longitude"
 msgstr ""
@@ -317,22 +317,22 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
-#: inc/metaboxes/post-options.php:259 shortcodes/edit.php:652 
+#: inc/metaboxes/post-options.php:259 shortcodes/edit.php:652
 #: shortcodes/submit.php:530
 msgid "Twitter"
 msgstr ""
 
-#: inc/metaboxes/post-options.php:264 shortcodes/edit.php:659 
+#: inc/metaboxes/post-options.php:264 shortcodes/edit.php:659
 #: shortcodes/submit.php:537
 msgid "Facebook"
 msgstr ""
 
-#: inc/metaboxes/post-options.php:269 shortcodes/edit.php:666 
+#: inc/metaboxes/post-options.php:269 shortcodes/edit.php:666
 #: shortcodes/submit.php:544
 msgid "LinkedIn"
 msgstr ""
 
-#: inc/metaboxes/post-options.php:274 shortcodes/edit.php:673 
+#: inc/metaboxes/post-options.php:274 shortcodes/edit.php:673
 #: shortcodes/submit.php:551
 msgid "Google Plus"
 msgstr ""
@@ -772,17 +772,17 @@ msgstr ""
 msgid "Listing Categories"
 msgstr ""
 
-#: shortcodes/category-element.php:15 shortcodes/checkout.php:8 
-#: shortcodes/edit.php:9 shortcodes/pricing.php:8 shortcodes/submit.php:10 
-#: vc_special_elements.php:9 vc_special_elements.php:115 
-#: vc_special_elements.php:212 vc_special_elements.php:278 
-#: vc_special_elements.php:407 vc_special_elements.php:536 
-#: vc_special_elements.php:613 vc_special_elements.php:700 
-#: vc_special_elements.php:841 vc_special_elements.php:1000 
-#: vc_special_elements.php:1109 vc_special_elements.php:1269 
-#: vc_special_elements.php:1489 vc_special_elements.php:1652 
-#: vc_special_elements.php:1761 vc_special_elements.php:1865 
-#: vc_special_elements.php:2018 vc_special_elements.php:2131 
+#: shortcodes/category-element.php:15 shortcodes/checkout.php:8
+#: shortcodes/edit.php:9 shortcodes/pricing.php:8 shortcodes/submit.php:10
+#: vc_special_elements.php:9 vc_special_elements.php:115
+#: vc_special_elements.php:212 vc_special_elements.php:278
+#: vc_special_elements.php:407 vc_special_elements.php:536
+#: vc_special_elements.php:613 vc_special_elements.php:700
+#: vc_special_elements.php:841 vc_special_elements.php:1000
+#: vc_special_elements.php:1109 vc_special_elements.php:1269
+#: vc_special_elements.php:1489 vc_special_elements.php:1652
+#: vc_special_elements.php:1761 vc_special_elements.php:1865
+#: vc_special_elements.php:2018 vc_special_elements.php:2131
 #: vc_special_elements.php:2163
 msgid "Listingpro"
 msgstr ""
@@ -803,7 +803,7 @@ msgstr ""
 msgid "Abstracted View"
 msgstr ""
 
-#: shortcodes/category-element.php:31 shortcodes/edit.php:407 
+#: shortcodes/category-element.php:31 shortcodes/edit.php:407
 #: shortcodes/submit.php:398 vc_special_elements.php:1522
 msgid "Select Category"
 msgstr ""
@@ -1475,8 +1475,8 @@ msgstr "Désolé! Il Manque Quelque Chose"
 msgid "Sorry"
 msgstr "Désolé"
 
-#: functions.php:558 inc/claims.php:180 shortcodes/checkout.php:15 
-#: shortcodes/edit.php:16 shortcodes/pricing.php:14 shortcodes/submit.php:17 
+#: functions.php:558 inc/claims.php:180 shortcodes/checkout.php:15
+#: shortcodes/edit.php:16 shortcodes/pricing.php:14 shortcodes/submit.php:17
 #: vc_special_elements.php:550 vc_special_elements.php:2172
 msgid "Title"
 msgstr "Titre"
@@ -1485,7 +1485,7 @@ msgstr "Titre"
 msgid "Listing Category"
 msgstr "Catégorie de l'Annonce"
 
-#: functions.php:560 plugin.php:326 plugin.php:327 shortcodes/pricing.php:335 
+#: functions.php:560 plugin.php:326 plugin.php:327 shortcodes/pricing.php:335
 #: shortcodes/pricing.php:708
 msgid "Location"
 msgstr "Localisation"
@@ -1522,7 +1522,7 @@ msgstr "Infos Complémentaires"
 msgid "instructions"
 msgstr "instructions"
 
-#: inc/field-types.php:75 inc/field-types.php:100 
+#: inc/field-types.php:75 inc/field-types.php:100
 #: inc/metaboxes/metaboxes.php:251
 msgid "Yes"
 msgstr "Oui"
@@ -1543,14 +1543,14 @@ msgstr "Factures Annonces"
 msgid "Select Package Type"
 msgstr "Choisissez votre Formule d'Annonce"
 
-#: inc/metaboxes-plans.php:36 inc/metaboxes-plans.php:41 
-#: inc/metaboxes-plans.php:48 shortcodes/pricing.php:376 
-#: shortcodes/pricing.php:380 shortcodes/pricing.php:739 
+#: inc/metaboxes-plans.php:36 inc/metaboxes-plans.php:41
+#: inc/metaboxes-plans.php:48 shortcodes/pricing.php:376
+#: shortcodes/pricing.php:380 shortcodes/pricing.php:739
 #: shortcodes/pricing.php:748
 msgid "Package"
 msgstr "Annonces Multiples"
 
-#: inc/metaboxes-plans.php:37 inc/metaboxes-plans.php:42 
+#: inc/metaboxes-plans.php:37 inc/metaboxes-plans.php:42
 #: inc/metaboxes-plans.php:47
 msgid "Pay Per Listing"
 msgstr "Annonce à l'Unité"
@@ -1575,7 +1575,7 @@ msgstr "Texte du Slogan Publicitaire"
 msgid "Phone"
 msgstr "Téléphone"
 
-#: inc/metaboxes/post-options.php:254 shortcodes/edit.php:386 
+#: inc/metaboxes/post-options.php:254 shortcodes/edit.php:386
 #: shortcodes/pricing.php:339 shortcodes/pricing.php:712
 msgid "Website"
 msgstr "Lien vers votre Site Web"
@@ -1584,7 +1584,7 @@ msgstr "Lien vers votre Site Web"
 msgid "Youtube Video URL"
 msgstr "URL Vidéo Youtube"
 
-#: inc/metaboxes/post-options.php:298 shortcodes/pricing.php:323 
+#: inc/metaboxes/post-options.php:298 shortcodes/pricing.php:323
 #: shortcodes/pricing.php:696 vc_special_elements.php:1759
 msgid "Image Gallery"
 msgstr "Galerie Photos"
@@ -1593,7 +1593,7 @@ msgstr "Galerie Photos"
 msgid "It will show your business price range"
 msgstr "Cela affichera la fourchette de prix de votre entreprise"
 
-#: inc/metaboxes/post-options.php:319 shortcodes/edit.php:548 
+#: inc/metaboxes/post-options.php:319 shortcodes/edit.php:548
 #: shortcodes/submit.php:467
 msgid "Price From"
 msgstr "Prix minimum"
@@ -1602,7 +1602,7 @@ msgstr "Prix minimum"
 msgid "Ignore this if your buisness does not have any specific price to show"
 msgstr "Ignorez-le si votre entreprise n'a pas de prix spécifique à afficher"
 
-#: inc/metaboxes/post-options.php:325 shortcodes/edit.php:555 
+#: inc/metaboxes/post-options.php:325 shortcodes/edit.php:555
 #: shortcodes/edit.php:556 shortcodes/submit.php:474
 msgid "Price To"
 msgstr "Prix maximum"
@@ -1619,7 +1619,7 @@ msgstr "Avis"
 msgid "Set Your business time details"
 msgstr "Définissez vos horaires d'ouverture"
 
-#: shortcodes/category-element.php:105 shortcodes/category-element.php:141 
+#: shortcodes/category-element.php:105 shortcodes/category-element.php:141
 #: vc_special_elements.php:1202 vc_special_elements.php:1247
 msgid "Listings"
 msgstr "Annonce(s)"
@@ -1632,7 +1632,7 @@ msgstr "Durée:"
 msgid " Days"
 msgstr " Jours"
 
-#: shortcodes/checkout.php:226 shortcodes/checkout.php:230 
+#: shortcodes/checkout.php:226 shortcodes/checkout.php:230
 #: shortcodes/checkout.php:235
 msgid "Price:"
 msgstr "Prix:"
@@ -1723,7 +1723,7 @@ msgstr "Cher"
 msgid "Ultra High"
 msgstr "Très Cher"
 
-#: shortcodes/edit.php:519 shortcodes/pricing.php:351 
+#: shortcodes/edit.php:519 shortcodes/pricing.php:351
 #: shortcodes/pricing.php:724
 msgid "Price Range"
 msgstr "Gamme de Prix"
@@ -1824,7 +1824,7 @@ msgstr "Par Annonce "
 msgid "Free"
 msgstr "Gratuit"
 
-#: shortcodes/pricing.php:271 shortcodes/pricing.php:274 
+#: shortcodes/pricing.php:271 shortcodes/pricing.php:274
 #: shortcodes/pricing.php:661 shortcodes/pricing.php:664
 msgid "Duration"
 msgstr "Durée"
@@ -1865,7 +1865,7 @@ msgstr "Slogan Publicitaire"
 msgid "Social Links"
 msgstr "Lien vers vos Réseaux Sociaux"
 
-#: shortcodes/pricing.php:347 shortcodes/pricing.php:720 
+#: shortcodes/pricing.php:347 shortcodes/pricing.php:720
 #: shortcodes/submit.php:503
 msgid "FAQ"
 msgstr "Question"
@@ -1942,34 +1942,34 @@ msgstr "ou"
 msgid "24 hours open"
 msgstr "Ouvert 24h / 24"
 
-#: templates/hours-form.php:66 templates/hours-form.php:85 
-#: templates/hours-form.php:94 templates/hours-form.php:103 
-#: templates/hours-form.php:112 templates/hours-form.php:121 
+#: templates/hours-form.php:66 templates/hours-form.php:85
+#: templates/hours-form.php:94 templates/hours-form.php:103
+#: templates/hours-form.php:112 templates/hours-form.php:121
 #: templates/hours-form.php:251
 msgid "Remove"
 msgstr "Supprimer"
 
-#: templates/hours-form.php:81 templates/hours-form.php:86 
+#: templates/hours-form.php:81 templates/hours-form.php:86
 #: templates/hours-form.php:87 templates/hours-form.php:131
 msgid "Monday"
 msgstr "Lundi"
 
-#: templates/hours-form.php:90 templates/hours-form.php:95 
+#: templates/hours-form.php:90 templates/hours-form.php:95
 #: templates/hours-form.php:96 templates/hours-form.php:132
 msgid "Tuesday"
 msgstr "Mardi"
 
-#: templates/hours-form.php:99 templates/hours-form.php:104 
+#: templates/hours-form.php:99 templates/hours-form.php:104
 #: templates/hours-form.php:105 templates/hours-form.php:133
 msgid "Wednesday"
 msgstr "Mercredi"
 
-#: templates/hours-form.php:108 templates/hours-form.php:113 
+#: templates/hours-form.php:108 templates/hours-form.php:113
 #: templates/hours-form.php:114 templates/hours-form.php:134
 msgid "Thursday"
 msgstr "Jeudi"
 
-#: templates/hours-form.php:117 templates/hours-form.php:122 
+#: templates/hours-form.php:117 templates/hours-form.php:122
 #: templates/hours-form.php:123 templates/hours-form.php:135
 msgid "Friday"
 msgstr "Vendredi"
