@@ -5,15 +5,15 @@ msgstr ""
 "POT-Creation-Date: 2017-12-12 22:09+0000\n"
 "POT-Revision-Date: Tue Mar 08 2016 16:05:54 GMT+0500 (Pakistan Standard "
 "Time)\n"
-"PO-Revision-Date: 2017-12-12 20:47-0200\n"
+"PO-Revision-Date: 2018-05-31 18:26-0300\n"
 "Last-Translator: ListingPro <jovemkt@gmail.com>\n"
 "Language-Team: Portuguese (Brazil)\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Poedit 1.8.7.1\n"
+"X-Generator: Poedit 2.0.7\n"
 "X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
 "__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
 "_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
@@ -34,11 +34,11 @@ msgstr[1] ""
 
 #: comments.php:104
 msgid "Post a comment"
-msgstr ""
+msgstr "Deixe um comentário"
 
 #: footer.php:79 footer.php:213
 msgid "Tel"
-msgstr ""
+msgstr "Tel"
 
 #: functions.php:756
 msgid "Footer sidebar widget "
@@ -324,11 +324,11 @@ msgstr ""
 
 #: include/paypal/paypalapi.php:39 include/paypal/paypalapi2.php:59
 msgid "listing title"
-msgstr "Título do Anúncio"
+msgstr "título do anúncio"
 
 #: include/paypal/paypalapi.php:40 include/paypal/paypalapi2.php:60
 msgid "price"
-msgstr "Preço"
+msgstr "preço"
 
 #: include/reviews/all-reviews.php:179 include/reviews/all-reviews.php:376
 msgid "Report"
@@ -410,7 +410,7 @@ msgstr ""
 
 #: include/widgets/widget_nearby_listing.php:30
 msgid "Nearby listings will show in sidebar in \"random\" order"
-msgstr "Anúncios Próximos serão exibidos no sidebar por ordem \"aleatória\""
+msgstr "Anúncios próximos serão exibidos ao lado por ordem aleatória"
 
 #: mobile/template-dashboard-app-view.php:492 template-dashboard.php:537
 msgid " My Subscriptions"
@@ -457,7 +457,7 @@ msgstr "Contatar pelo Whatsapp"
 
 #: mobile/templates/search/filter-app-view.php:120
 msgid "Select Price Range"
-msgstr ""
+msgstr "Selecionar a faixa de preços"
 
 #: mobile/templates/search/filter-app-view.php:227
 msgid "Select Category"
@@ -469,11 +469,11 @@ msgstr "Website"
 
 #: templates/blog-comments.php:125
 msgid "Comment"
-msgstr ""
+msgstr "Comentário"
 
 #: templates/blog-comments.php:145
 msgid "Write your comment here..."
-msgstr ""
+msgstr "Escreva seu comentário aqui..."
 
 #: templates/dashboard/active-campaigns.php:81
 #: templates/dashboard/list-invoices.php:80
@@ -502,7 +502,7 @@ msgstr "Ação"
 
 #: templates/listing_detail3.php:389
 msgid "Reviews "
-msgstr "Comentários"
+msgstr "Comentários "
 
 #: templates/popups.php:532
 msgid "Drop Pin"
@@ -1235,7 +1235,7 @@ msgstr "Menus no Painel ON/OFF"
 
 #: include/options-config.php:344
 msgid "Icon for Food/Service Menu "
-msgstr "Ícone para o Menu"
+msgstr "Ícone para o Menu "
 
 #: include/options-config.php:347
 msgid "Upload your icon here"
@@ -1650,7 +1650,7 @@ msgstr "Denúncia nos detalhes do anúncio"
 #: include/options-config.php:1453 include/options-config.php:1465
 #: include/options-config.php:2105
 msgid "on/off"
-msgstr "ON/OFF"
+msgstr "on/off"
 
 #: include/options-config.php:1493
 msgid "Listing View"
@@ -1920,7 +1920,7 @@ msgstr "Selecione o tipo de modelo"
 
 #: include/options-config.php:2026
 msgid "locations option for listing submit and edit"
-msgstr "Opções de modelos ao criar e editar anúncios"
+msgstr "opções de localização ao criar e editar anúncios"
 
 #: include/options-config.php:2037 include/options-config.php:2514
 msgid "Add Location Shortcode"
@@ -1993,7 +1993,7 @@ msgstr "Exibir contato direto somente em anúncios verificados ON/OFF"
 
 #: include/options-config.php:2145
 msgid "on=show only on claimed, off= show on all listing"
-msgstr "ON exibir somente nos verificados, off exibir a todos os anúncios"
+msgstr "on=exibir somente nos reivindicados, off=exibir em todos os anúncios"
 
 #: include/options-config.php:2156
 msgid "Listing Claim"
@@ -2034,7 +2034,7 @@ msgstr ""
 
 #: include/options-config.php:2215 include/options-config.php:2403
 msgid "Destination in "
-msgstr "Métrica da Distância"
+msgstr "Destination in "
 
 #: include/options-config.php:2216
 msgid "Nearby Destination Calculate in"
@@ -2164,7 +2164,7 @@ msgstr "Ocultar/Exibir campo - O que"
 
 #: include/options-config.php:2457 include/options-config.php:2464
 msgid "on=hide  off=show"
-msgstr "ON= ocultar OFF= exibir"
+msgstr "on=ocultar off= exibir"
 
 #: include/options-config.php:2463
 msgid "Hide/Show Location Field"
@@ -2188,7 +2188,7 @@ msgstr "Tipo de pesquisa para localização"
 
 #: include/options-config.php:2502
 msgid "Select option about locations Search"
-msgstr "selecione a opção para pesquisa por localização"
+msgstr "Selecione a opção para pesquisa por localização"
 
 #: include/options-config.php:2504
 msgid "locations option for listing search in search form"
@@ -4396,11 +4396,11 @@ msgstr "País : "
 
 #: include/search-filter.php:915 include/search-filter.php:1006
 msgid " City : "
-msgstr "Cidade : "
+msgstr " Cidade : "
 
 #: include/search-filter.php:917 include/search-filter.php:1008
 msgid " Zip : "
-msgstr "CEP : "
+msgstr " CEP : "
 
 #: include/setup/envato_setup.php:209 include/setup/envato_setup.php:214
 msgid "Setup Wizard"
@@ -5378,7 +5378,7 @@ msgstr "Publique seus anúncios e obtenha novos clientes!"
 #: templates/dashboard/main-screen.php:51
 msgid " Please review and submit to get new leads and customers."
 msgstr ""
-"Agora é só visualizar e enviar seu anúncio para começar a atrair clientes."
+" Agora é só visualizar e enviar seu anúncio para começar a atrair clientes."
 
 #: mobile/templates/dashboard/main-screen-app-view.php:109
 #: mobile/templates/dashboard/main-screen-app-view.php:113
@@ -5559,7 +5559,7 @@ msgstr "Entrar"
 #: templates/headers/header-without-topbar.php:130
 #: templates/headers/header-without-topbar.php:174
 msgid "Add Listing"
-msgstr "Anunciar Empresa"
+msgstr "Anunciar"
 
 #: mobile/templates/headers/header-app-view-template.php:203
 #: templates/join-now.php:56
@@ -5682,7 +5682,7 @@ msgstr "Enviar"
 #: templates/single-list/listing-details-style1/sidebar/quicks.php:94
 #: templates/single-list/listing-details-style2/sidebar/quicks.php:93
 msgid "See something wrong? "
-msgstr "Encontrou algo errado?"
+msgstr "Encontrou algo errado? "
 
 #: mobile/templates/listing_app_view.php:667
 #: templates/single-list/listing-details-style1/sidebar/quicks.php:96
@@ -5755,7 +5755,7 @@ msgstr "Google"
 #: mobile/templates/login-reg-popup.php:71
 #: mobile/templates/login-reg-popup.php:139
 msgid "Or"
-msgstr "ou"
+msgstr "Ou"
 
 #: mobile/templates/login-reg-popup.php:76
 msgid "UserName/Email"
@@ -5817,12 +5817,12 @@ msgstr "Resultados Para"
 #: templates/search/filter.php:62 templates/search/filter.php:71
 #: templates/search/filter.php:76
 msgid "In "
-msgstr "em "
+msgstr "Em "
 
 #: mobile/templates/search/filter-app-view.php:81
 #: templates/search/filter.php:85
 msgid "Most recent "
-msgstr "Mais recentes"
+msgstr "Mais recentes "
 
 #: mobile/templates/search/filter-app-view.php:231
 #: mobile/templates/search/filter-app-view.php:268
