@@ -498,9 +498,8 @@ msgid "To get Claim for listing, click of following link"
 msgstr "Um den Eintrag zu übernehmen, klicken Sie auf folgenden Link"
 
 #: functions.php:3742
-#, fuzzy
 msgid "Load Claim Email"
-msgstr "Übernahme E-Mail Laden"
+msgstr "Übernahme-E-Mail laden"
 
 #: functions.php:3743
 #, fuzzy
@@ -659,9 +658,8 @@ msgid "Verify your purchase code to unlock all features, see "
 msgstr "Überprüfen Sie Ihren Freischaltungscode, um alle Funktionen freizuschalten, siehe "
 
 #: functions.php:5515
-#, fuzzy
 msgid "instructions"
-msgstr "Erklärungen"
+msgstr "Anweisungen"
 
 #: functions.php:5750
 #, fuzzy
@@ -897,9 +895,8 @@ msgid "24 hours open"
 msgstr "24 Stunden geöffnet"
 
 #: include/functions-new.php:248
-#, fuzzy
 msgid "Open"
-msgstr "Offen"
+msgstr "Geöffnet"
 
 #: include/functions-new.php:260
 msgid "Closed"
@@ -1028,9 +1025,8 @@ msgstr "Ausklappen"
 #: include/functions-new.php:2889 include/functions-new.php:3129
 #: include/functions-new.php:3168 include/functions-new.php:3217
 #: include/functions-new.php:4093 include/functions-new.php:6083
-#, fuzzy
 msgid "Invalid User Session"
-msgstr "Ungültige Benutzersitzung"
+msgstr "Ungültige Benutzer-Session"
 
 #: include/functions-new.php:2139
 msgid "Announcement updated"
@@ -1613,9 +1609,8 @@ msgid "(default: #41a6df)."
 msgstr "(Standard: #41a6df)."
 
 #: include/options-config.php:144
-#, fuzzy
 msgid "Controls the main highlight color throughout the theme. Color applied to elements such as buttons, links, categories, etc."
-msgstr "Steuert die Haupt-Highlight-Farbe im gesamten Design. Farbe, die auf Elemente wie Schaltflächen, Links, Kategorien usw. angewendet wird."
+msgstr "Steuert die Haupthighlightfarbe im gesamten Design. Farbe, die auf Elementen wie Schaltflächen, Links, Kategorien usw. angewendet wird."
 
 #: include/options-config.php:151
 #, fuzzy
@@ -1628,14 +1623,12 @@ msgid "(default: #363F48)."
 msgstr "(Standard: #363F48)."
 
 #: include/options-config.php:153
-#, fuzzy
 msgid "Controls the minor highlight color throughout the theme. Color applied to elements such as links mouse-over, buttons, breadcrumbs, etc."
-msgstr "Steuert die kleinere Hervorhebungsfarbe im gesamten Design. Farbe, die auf Elemente wie Links Mouse-over, Schaltflächen, Breadcrumbs usw. angewendet wird."
+msgstr "Steuert die Farbe der Nebenhervorhebung im gesamten Design. Farbe, die auf Elemente wie Mouse-over-Links, Schaltflächen, Breadcrumbs usw. angewendet wird."
 
 #: include/options-config.php:160
-#, fuzzy
 msgid "User Signup Form Password Field"
-msgstr "Kennwortfeld für benutzeranmeldeformular"
+msgstr "Benutzer-Anmeldeformular Passwort-Feld"
 
 #: include/options-config.php:161
 msgid "On for enable and Off for disable password field"
@@ -1657,9 +1650,8 @@ msgid "Enable to allow users to set their own username within the instant signup
 msgstr "Aktivieren, damit Benutzer ihren eigenen Benutzernamen innerhalb des Sofortanmeldungsformulars festlegen können. Wenn diese Option deaktiviert ist, wird ein Benutzername während der Anmeldung automatisch generiert. Sofortige Anmeldung wird während der Auflistung und Überprüfungsübermittlung angezeigt, wenn der Benutzer nicht angemeldet ist"
 
 #: include/options-config.php:170
-#, fuzzy
 msgid "On for enable and Off for disable username feild"
-msgstr "Ein für aktivieren und Aus für Deaktivieren des Benutzernamenfelds"
+msgstr "Ein für die Aktivierung und Aus für die Deaktivierung des Benutzernamen-Feldes"
 
 #: include/options-config.php:176
 #, fuzzy
@@ -1667,9 +1659,8 @@ msgid "Page Title (H1)"
 msgstr "Seitentitel (H1)"
 
 #: include/options-config.php:177
-#, fuzzy
 msgid "On for enable and Off for disable page title"
-msgstr "Ein für aktivieren und Aus für Deaktivieren des Seitentitels"
+msgstr "Ein für die Aktivierung und Aus für die Deaktivierung des Seitentitels"
 
 #: include/options-config.php:178
 msgid "Enable to display a page title for non-directory pages such as about, contact ect. This will not affect directory pages such as listing search results (archive) and listing details page."
@@ -1681,9 +1672,8 @@ msgid "Currency Symbol For Price Group/Range"
 msgstr "Währungssymbol für Preisgruppe/Bereich"
 
 #: include/options-config.php:185
-#, fuzzy
 msgid "Enter a currency symbol (ex. $ | ¥ | £) to display in the search filter as price-group (ex. $ | $$ | $$$ | $$$$ ) and also on listing details page as price-range ($25 - $50)."
-msgstr "Geben Sie ein Währungssymbol (z. B. , z. B. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,"
+msgstr "Geben Sie ein Währungssymbol (z.B. $ | € | £) ein, das im Suchfilter als Preisgruppe (z.B. € | €€ | €€€ | €€€€ ) und auf der Seite mit den Einträgen als Preisspanne (25€ - 50€) angezeigt werden soll."
 
 #: include/options-config.php:191
 #, fuzzy
@@ -1706,14 +1696,12 @@ msgid "Paste your JS code here."
 msgstr "Hier Ihren JS-Code einfügen."
 
 #: include/options-config.php:211
-#, fuzzy
 msgid "Auto-Location detection for Banner (Hero) and Search Field (Where)"
-msgstr "Auto-Location-Erkennung für Banner (Held) und Suchfeld (Wo)"
+msgstr "Automatische Standorterkennung für Banner (Hero) und Suchfeld (Wo)"
 
 #: include/options-config.php:212
-#, fuzzy
 msgid "On for enable and Off for disable current location"
-msgstr "Ein für aktivieren und Aus für Deaktivieren des aktuellen Standorts"
+msgstr "Ein zum Aktivieren und Aus zum Deaktivieren der aktuellen Position"
 
 #: include/options-config.php:213
 #, fuzzy
@@ -1721,14 +1709,12 @@ msgid "Enable to auto-detect users location and display their location within th
 msgstr "Aktivieren Sie die automatische Erkennung des Standorts von Benutzern und die Anzeige ihres Standorts innerhalb des Positionsfelds (wo) und innerhalb des Seitenbanners.<br>Beispiel: Alles durchsuchen! Entdecken Sie <b>New York</b>"
 
 #: include/options-config.php:220
-#, fuzzy
 msgid "Auto-Location Detection Method"
-msgstr "Auto-Location-Erkennungsmethode"
+msgstr "Verfahren zur automatischen Standorterkennung"
 
 #: include/options-config.php:222
-#, fuzzy
 msgid "There are three options available to identify visitors current location. <br /><br /><strong>GPS </strong>  based location auto-detection provides extremely accurate location information based on satellites.  (User consent required in the browser. A pop is displayed to the visitor to enable location detection.). <br /><br /><strong>Geo IP DB and IP API</strong> based location auto-detection provides less accurate location information based on your IP address and uses an external database to map the IP address to a physical location. (User consent not required in the browser. No pop is displayed to the user to enable location detection.)."
-msgstr "Es stehen drei Optionen zur Verfügung, um den aktuellen Standort der Besucher zu identifizieren.<br /><br /><strong>GPS-basierte</strong> Standort-Auto-Erkennung liefert extrem genaue Standortinformationen basierend auf Satelliten.  (Die Zustimmung des Benutzers ist im Browser erforderlich. Ein Pop wird dem Besucher angezeigt, um die Standorterkennung zu aktivieren.).<br /><br />Die automatische Erkennung von <strong>Geo IP DB und IP API-basierten</strong> Standortinformationen liefert weniger genaue Standortinformationen basierend auf Ihrer IP-Adresse und verwendet eine externe Datenbank, um die IP-Adresse einem physischen Standort zuzuordnen. (Die Zustimmung des Benutzers ist im Browser nicht erforderlich. Es wird dem Benutzer kein Pop angezeigt, um die Standorterkennung zu aktivieren.)."
+msgstr "Es stehen drei Optionen zur Verfügung, um den aktuellen Standort der Besucher zu ermitteln. <br /><br /><strong>GPS </strong> basierte Standorterkennung liefert extrem genaue Standortinformationen auf der Basis von Satelliten.  (Zustimmung des Benutzers im Browser erforderlich. Ein Pop-Up wird dem Besucher angezeigt, um die Standorterkennung zu aktivieren). <br /><br /><strong>Geo IP DB und IP API</strong> basierte automatische Standorterkennung liefert weniger genaue Standortinformationen basierend auf Ihrer IP-Adresse und verwendet eine externe Datenbank, um die IP-Adresse einem physischen Standort zuzuordnen. (Im Browser ist keine Zustimmung des Benutzers erforderlich. Dem Benutzer wird kein Pop-Up angezeigt, um die Standorterkennung zu aktivieren)."
 
 #: include/options-config.php:234
 msgid "User Dashboard"
@@ -1863,9 +1849,8 @@ msgid "Events"
 msgstr "Events"
 
 #: include/options-config.php:343
-#, fuzzy
 msgid "Enable to show and allow the creation of Events within the dashboard. (Available only for business listing owners)"
-msgstr "Ermöglicht die Anzeige und Erstellung von Ereignissen innerhalb des Dashboards. (Nur für Inhaber von Unternehmenseinträgen verfügbar)"
+msgstr "Ermöglicht die Anzeige und Erstellung von Events innerhalb des Dashboards. (Nur für Inhaber von Firmeneinträgen verfügbar)"
 
 #: include/options-config.php:349
 msgid "Discount/Offers/Deals"
@@ -1899,9 +1884,8 @@ msgid "Notice to Create Campaigns"
 msgstr "Hinweis zur Erstellung von Kampagnen"
 
 #: include/options-config.php:384
-#, fuzzy
 msgid "Delete Converstaion Button"
-msgstr "Converstaion Button löschen"
+msgstr "Unterhaltung löschen - Button"
 
 #: include/options-config.php:385
 #, fuzzy
@@ -1933,34 +1917,28 @@ msgid "Typography option with each property can be called individually."
 msgstr "Typografie-Option mit jeder Eigenschaft kann einzeln aufgerufen werden."
 
 #: include/options-config.php:437
-#, fuzzy
 msgid "Heading h1 Style"
-msgstr "Heading h1 Style"
+msgstr "Heading h1 Stil"
 
 #: include/options-config.php:456
-#, fuzzy
 msgid "Heading h2 Style"
-msgstr "Heading h2 Style"
+msgstr "Heading h2 Stil"
 
 #: include/options-config.php:475
-#, fuzzy
 msgid "Heading h3 Style"
-msgstr "Heading h3 Style"
+msgstr "Heading h3 Stil"
 
 #: include/options-config.php:494
-#, fuzzy
 msgid "Heading h4 Style"
-msgstr "Heading h4 Style"
+msgstr "Heading h4 Stil"
 
 #: include/options-config.php:513
-#, fuzzy
 msgid "Heading h5 Style"
-msgstr "Heading h5 Style"
+msgstr "Heading h5 Stil"
 
 #: include/options-config.php:532
-#, fuzzy
 msgid "Heading h6 Style"
-msgstr "Heading h6 Style"
+msgstr "Heading h6 Stil"
 
 #: include/options-config.php:551
 msgid "Paragraph and small elements"
@@ -1996,14 +1974,12 @@ msgid "Top Bar Background Color"
 msgstr "Top Bar Hintergrundfarbe"
 
 #: include/options-config.php:646
-#, fuzzy
 msgid "Enable/Disable Top bar"
-msgstr "On/Off Top Bar"
+msgstr "Top Bar aktivieren/deaktivieren"
 
 #: include/options-config.php:654
-#, fuzzy
 msgid "Top bar Background Color Inner Pages"
-msgstr "Obere Leiste Hintergrundfarbe Innenseiten"
+msgstr "Top Bar Hintergrundfarbe Unterseiten"
 
 #: include/options-config.php:655 include/options-config.php:717
 #: include/options-config.php:725
@@ -2011,9 +1987,8 @@ msgid "(default: #42a7df)."
 msgstr "(Standard: #42a7df)."
 
 #: include/options-config.php:663 include/options-config.php:672
-#, fuzzy
 msgid "Top bar Color Inner Pages"
-msgstr "Obere Leiste Farbe Innenseiten"
+msgstr "Top Bar Farbe Innenseiten"
 
 #: include/options-config.php:664
 msgid "(default: #797979)."
@@ -2039,14 +2014,12 @@ msgid "Position Top Fixed Header."
 msgstr "Position Top Fixed Header."
 
 #: include/options-config.php:709
-#, fuzzy
 msgid "Fixed Header In Inner Pages"
-msgstr "Feste Kopfzeile in inneren Seiten"
+msgstr "Fixierter Header auf Unterseiten"
 
 #: include/options-config.php:710
-#, fuzzy
 msgid "Position Top Fixed Header In Inner Pages."
-msgstr "Positionieren Sie die obere feste Kopfzeile in den inneren Seiten."
+msgstr "Positionieren Sie die obere feste Kopfzeile auf den Unterseiten."
 
 #: include/options-config.php:716
 #, fuzzy
@@ -2139,19 +2112,16 @@ msgid "Home Page Logo"
 msgstr "Home Page Logo"
 
 #: include/options-config.php:830
-#, fuzzy
 msgid "Upload your logo to show within the Header on the Homepage. "
-msgstr "Laden Sie Ihr Logo hoch, um es im Header auf der Homepage anzuzeigen."
+msgstr "Laden Sie Ihr Logo hoch, um es im Header auf der Homepage anzuzeigen. "
 
 #: include/options-config.php:837
-#, fuzzy
 msgid "Logo for Inner Pages"
-msgstr "Logo für innen"
+msgstr "Logo für Unterseiten"
 
 #: include/options-config.php:840
-#, fuzzy
 msgid "Upload your logo to show within the Header on Inner Pages."
-msgstr "Laden Sie Ihr Logo hoch, um es in der Kopfzeile auf inneren Seiten anzuzeigen."
+msgstr "Laden Sie Ihr Logo hoch, um es in der Kopfzeile auf Unterseiten anzuzeigen."
 
 #: include/options-config.php:847
 #, fuzzy
@@ -2180,9 +2150,8 @@ msgid "Banner"
 msgstr "Banner"
 
 #: include/options-config.php:891
-#, fuzzy
 msgid "Homepage Banner Style"
-msgstr "Homepage Banner Style"
+msgstr "Homepage Banner Stil"
 
 #: include/options-config.php:893
 #, fuzzy
@@ -2191,9 +2160,8 @@ msgstr "Wählen Sie aus 1 von 7 Stilen"
 
 #: include/options-config.php:934 include/options-config.php:964
 #: include/options-config.php:994 include/options-config.php:1024
-#, fuzzy
 msgid "Select Search Style"
-msgstr "Wählen Sie Suchstil"
+msgstr "Wählen Sie den Suchstil"
 
 #: include/options-config.php:1054 include/options-config.php:1084
 #: include/options-config.php:1114 include/options-config.php:1144
@@ -2241,24 +2209,20 @@ msgid "Select if banner shows static image or video."
 msgstr "Wählen Sie aus, ob das Banner ein statisches Bild oder Video zeigt."
 
 #: include/options-config.php:1275
-#, fuzzy
 msgid "Home Banner Image"
-msgstr "Home Banner Bild"
+msgstr "Startseite Banner Bild"
 
 #: include/options-config.php:1277
-#, fuzzy
 msgid "Upload image for homepage banner"
-msgstr "Bild für Home Banner hochladen"
+msgstr "Bild für Banner auf Startseite hochladen"
 
 #: include/options-config.php:1287
-#, fuzzy
 msgid "Home Video Banner Image"
-msgstr "Home Banner Video"
+msgstr "Startseiten-Banner Video"
 
 #: include/options-config.php:1289
-#, fuzzy
 msgid "Upload video poster for homepage banner"
-msgstr "Laden Sie ein Videoposter für das Banner der Homepage hoch"
+msgstr "Videoposter für Homepage-Banner hochladen"
 
 #: include/options-config.php:1299
 #, fuzzy
@@ -2271,9 +2235,8 @@ msgid "MP4 Video Url"
 msgstr "MP4 Video Url"
 
 #: include/options-config.php:1315
-#, fuzzy
 msgid "Please use proper video URL with extension like .mp4. Avoid using any video page URL like youtube or vimeo"
-msgstr "Bitte verwenden Sie die richtige Video-URL mit der Erweiterung .mp4. Vermeiden Sie die Verwendung einer URL für eine Videoseite wie youtube oder vimeo"
+msgstr "Bitte verwenden Sie eine korrekte Video-URL mit einer Erweiterung wie .mp4. Vermeiden Sie die Verwendung einer Videoseiten-URL wie Youtube oder Vimeo"
 
 #: include/options-config.php:1316 include/options-config.php:1328
 #, fuzzy
@@ -2301,27 +2264,24 @@ msgid "Courtesy Listing On/Off"
 msgstr "Mit Genehmigung von ein-/ausschalten"
 
 #: include/options-config.php:1357
-#, fuzzy
 msgid "Link image to listing if images have been provided by a listing"
-msgstr "Linkbild zur Auflistung, wenn Bilder von einer Auflistung bereitgestellt wurden"
+msgstr "Bild mit dem Eintrag verknüpfen, wenn Bilder durch einen Eintrag zur Verfügung gestellt wurden"
 
 #: include/options-config.php:1366
 msgid "Listing ID"
 msgstr "Eintrag ID"
 
 #: include/options-config.php:1368
-#, fuzzy
 msgid "Listing ID for a link to the listing "
-msgstr "Listing-ID für einen Link zum Angebot"
+msgstr "Listing ID für einen Link zum Eintrag "
 
 #: include/options-config.php:1389
 msgid "Banner Taxonomy"
 msgstr "Banner-Taxonomie"
 
 #: include/options-config.php:1390
-#, fuzzy
 msgid "Choose if banner catgory boxes show Category, Location or features"
-msgstr "Wählen Sie, ob Banner-Katagorie-Boxen Kategorie, Ort oder Funktionen anzeigen"
+msgstr "Wählen Sie, ob die Banner-Kategoriefelder Kategorie, Standort oder Features anzeigen"
 
 #: include/options-config.php:1408
 #, fuzzy
@@ -2346,14 +2306,12 @@ msgid "Locations"
 msgstr "Standorte"
 
 #: include/options-config.php:1435
-#, fuzzy
 msgid "Select Location to show for banner taxonomy"
-msgstr "Wählen Sie Ort aus, um die Bannertaxonomie anzuzeigen"
+msgstr "Wählen Sie den anzuzeigenden Standort für die Banner-Taxonomie"
 
 #: include/options-config.php:1447
-#, fuzzy
 msgid "listing Features"
-msgstr "Auflistung von Funktionen"
+msgstr "Eintrag Features"
 
 #: include/options-config.php:1449
 msgid "Select features to show for banner taxonomy"
@@ -2395,18 +2353,16 @@ msgid "Search Top Title"
 msgstr "Suche Top Titel"
 
 #: include/options-config.php:1554
-#, fuzzy
 msgid "Sidebar Search Location Text"
-msgstr "Seitenleiste Suchorttext"
+msgstr "Sidebar-Suche Standorttext"
 
 #: include/options-config.php:1564 include/options-config.php:1574
 msgid "Search Main Text"
 msgstr "Suchen mein Haupttext"
 
 #: include/options-config.php:1584
-#, fuzzy
 msgid "Search Upper Small Text"
-msgstr "Suche Nach dem oberen kleinen Text"
+msgstr "Suche im oberen kleinen Text"
 
 #: include/options-config.php:1594
 #, fuzzy
@@ -2423,19 +2379,16 @@ msgid "Banner Logo"
 msgstr "Banner-Logo"
 
 #: include/options-config.php:1607
-#, fuzzy
 msgid "Upload image for logo on banner search form"
-msgstr "Bild für Logo auf Bannersuche hochladen"
+msgstr "Bild für Logo auf Banner-Suchformular hochladen"
 
 #: include/options-config.php:1617
-#, fuzzy
 msgid "Show Listing Pin By"
-msgstr "Zeige Inserats Pin von"
+msgstr "Zeige Eintrags-Pin von"
 
 #: include/options-config.php:1619
-#, fuzzy
 msgid "On home page map, show pin based on the selection"
-msgstr "Auf der Homepage-Karte Pin auf Grundlage der Auswahl zeigen"
+msgstr "Auf der Karte auf der Startseite, Pin entsprechend der Auswahl anzeigen"
 
 #: include/options-config.php:1635
 msgid "Category"
@@ -2456,19 +2409,16 @@ msgid "Map"
 msgstr "Karte"
 
 #: include/options-config.php:1656
-#, fuzzy
 msgid "Google Map & Places API Key"
-msgstr "Google Map & Places API Key"
+msgstr "Google Map & Places API-Schlüssel"
 
 #: include/options-config.php:1657
-#, fuzzy
 msgid "Please set your own google map API key for your site( default key is for only demo)"
-msgstr "Füge hier deinen Google Map API Key ein. (Standard Key ist nur für Demo)"
+msgstr "Bitte legen Sie Ihren eigenen Google Map-API-Schlüssel für Ihre Website fest (Standard-Schlüssel ist nur für die Demo)"
 
 #: include/options-config.php:1658
-#, fuzzy
 msgid "Get your Google Maps API Key here. <br> https://developers.google.com/maps/documentation/javascript/get-api-key"
-msgstr "Holen Sie sich hier Ihren Google Maps API-Schlüssel.<br>https://developers.google.com/maps/documentation/javascript/get-api-key"
+msgstr "Hier erhalten Sie Ihren Google Maps API-Schlüssel. <br> https://developers.google.com/maps/documentation/javascript/get-api-key"
 
 #: include/options-config.php:1664
 #, fuzzy
@@ -2476,19 +2426,16 @@ msgid "Map Type"
 msgstr "Kartentyp"
 
 #: include/options-config.php:1677
-#, fuzzy
 msgid "Mapbox Token"
-msgstr "MapBox Token (*)"
+msgstr "Mapbox-Token"
 
 #: include/options-config.php:1678
-#, fuzzy
 msgid "Put here MapBox token, If you leave it empty then Google map will work"
-msgstr "Füge hier deinen MapBox token ein. Wenn du diese Feld leer lässt wird Google Maps verwendet"
+msgstr "Geben Sie hier das MapBox-Token ein. Wenn Sie es leer lassen, wird Google Maps genutzt"
 
 #: include/options-config.php:1679
-#, fuzzy
 msgid "Get your Mapbox Key here.<br>https://account.mapbox.com/access-tokens/create"
-msgstr "Holen Sie sich Hier Ihren Mapbox-Schlüssel.<br>https://account.mapbox.com/access-tokens/create"
+msgstr "Holen Sie sich Ihren Mapbox-Schlüssel hier.<br>https://account.mapbox.com/access-tokens/create"
 
 #: include/options-config.php:1688
 #, fuzzy
@@ -2496,9 +2443,8 @@ msgid "Mapbox Map style"
 msgstr "Mapbox Kartenstil"
 
 #: include/options-config.php:1689
-#, fuzzy
 msgid "Select any style"
-msgstr "Wähle einen Stil"
+msgstr "Wählen Sie einen Stil"
 
 #: include/options-config.php:1690
 #, fuzzy
@@ -2516,9 +2462,8 @@ msgid "Blog View"
 msgstr "Blogansicht"
 
 #: include/options-config.php:1754
-#, fuzzy
 msgid "Blog Grid View Style"
-msgstr "Blog-Grid-Ansichtsstil"
+msgstr "Blog-Raster-Ansicht-Stil"
 
 #: include/options-config.php:1767
 #, fuzzy
@@ -2541,19 +2486,16 @@ msgid "Mobile View"
 msgstr "Mobile Ansicht"
 
 #: include/options-config.php:1824
-#, fuzzy
 msgid "Select between Responsive & App View. Find out more here "
-msgstr "Wählen Sie zwischen Responsive & App View. Erfahren Sie mehr hier"
+msgstr "Wählen Sie zwischen Responsive & App Ansicht. Hier erfahren Sie mehr "
 
 #: include/options-config.php:1836
-#, fuzzy
 msgid "Upload App View Menu Header Image"
-msgstr "App View Menu Header Bild hochladen"
+msgstr "App Ansicht Menü Header Bild hochladen"
 
 #: include/options-config.php:1838
-#, fuzzy
 msgid "Upload image to be used as the app view menu header"
-msgstr "Hochladen eines Bildes, das als App-Ansichtsmenükopf verwendet werden soll"
+msgstr "Hochladen eines Bildes, das in der App Ansicht im Header verwendet werden soll"
 
 #: include/options-config.php:1845
 #, fuzzy
@@ -2570,9 +2512,8 @@ msgid "Select page for App View to use as Homepage. This allows you to create a 
 msgstr "Wählen Sie die Seite für die App-Ansicht zur Verwendung als Homepage aus. Dadurch können Sie eine separate Seite für Desktop und Mobile erstellen, die es Ihnen ermöglicht, die Homepage je nach Bildschirmgröße zu gestalten."
 
 #: include/options-config.php:1867
-#, fuzzy
 msgid "Default Map Location Latitude"
-msgstr "Standard Map Location Breitengrad"
+msgstr "Standard-Kartenstandort Breitengrad"
 
 #: include/options-config.php:1868
 #, fuzzy
@@ -2584,9 +2525,8 @@ msgid "This option will work on map only and only if there is no listing result 
 msgstr "Diese Option funktioniert nur auf der Karte und nur, wenn kein Eintrag gefunden wird"
 
 #: include/options-config.php:1875
-#, fuzzy
 msgid "Default Map Location Longitude"
-msgstr "Standard Map Location Längengrad"
+msgstr "Standard-Kartenstandort Längengrad"
 
 #: include/options-config.php:1876
 #, fuzzy
@@ -2599,19 +2539,16 @@ msgid "Listings Order By"
 msgstr "Einträge Sortieren nach"
 
 #: include/options-config.php:1885
-#, fuzzy
 msgid "Order By Listings on archive/search result page"
-msgstr "Reihenfolge nach Listings auf der Archiv- / Suchergebnisseite"
+msgstr "\"Einträge sortieren nach\" auf Archiv-/Suchergebnisseiten"
 
 #: include/options-config.php:1900
-#, fuzzy
 msgid "Listings Order"
-msgstr "Eintrag Sortieren"
+msgstr "Reihenfolge der Einträge"
 
 #: include/options-config.php:1902
-#, fuzzy
 msgid "Listings Order on archive/search result page"
-msgstr "Eintrag Sortieren auf Archiv / Suchergebnisseite"
+msgstr "Einträge Reihenfolge auf der Archiv-/Suchergebnisseite"
 
 #: include/options-config.php:1915
 #, fuzzy
@@ -2619,14 +2556,12 @@ msgid "Add listing only by logged in users"
 msgstr "Eintrag kann nur von angemeldeten Benutzern hinzugefügt werden"
 
 #: include/options-config.php:1916
-#, fuzzy
 msgid "Only logged in users can submit listings"
-msgstr "Nur angemeldete Benutzer können Angebote senden"
+msgstr "Nur angemeldete Benutzer können Einträge einreichen"
 
 #: include/options-config.php:1922
-#, fuzzy
 msgid "Select Timing Format"
-msgstr "Wählen Sie Timing Format"
+msgstr "Zeitformat auswählen"
 
 #: include/options-config.php:1933
 #, fuzzy
@@ -2634,9 +2569,8 @@ msgid "Contact Support Page"
 msgstr "Kontakt Support-Seite"
 
 #: include/options-config.php:1934
-#, fuzzy
 msgid "The select page that Contact Support button links to."
-msgstr "Die Auswahlseite, auf die die Schaltfläche \"Kontaktsupport\" verweist."
+msgstr "Die Seite, zu der der Kontakt Support - Button verlinken soll."
 
 #: include/options-config.php:1940
 msgid "Change Plan Button"
@@ -2666,9 +2600,8 @@ msgid "Upload default featured image for listing"
 msgstr "Standard-Bild für Einträge hochladen"
 
 #: include/options-config.php:1962
-#, fuzzy
 msgid "Upload a default image to be used as the featured image, only used if the user doesn’t upload an image. "
-msgstr "Laden Sie ein Standardbild hoch, das als ausgewähltes Bild verwendet werden soll, und wird nur verwendet, wenn der Benutzer kein Bild hochlädt."
+msgstr "Laden Sie ein Standardbild hoch, das als Feature-Bild verwendet wird, nur wenn der Benutzer kein Bild hochlädt. "
 
 #: include/options-config.php:1968
 #, fuzzy
@@ -2680,9 +2613,8 @@ msgid "Enable to use an image from listing gallery as a featured image if a feat
 msgstr "Aktivieren Sie die Verwendung eines Bildes aus der Galerie des Eintrags als Feature-Bild, wenn ein Feature-Bild nicht hochgeladen wurde."
 
 #: include/options-config.php:1980
-#, fuzzy
 msgid "Map Pin Image for Contact Us Page and Listing Details Page"
-msgstr "Karte Pin Bild für Kontakt Seite und Listing Details Seite"
+msgstr "Abbildung der Kartennadel für die Seite Kontakt und Eintrags Detailseite"
 
 #: include/options-config.php:1982
 msgid "Upload your image"
@@ -2707,9 +2639,8 @@ msgid "Change Listing Status On Listing Moderation"
 msgstr "Ändern des Status in der Partnerprogramm-Moderation"
 
 #: include/options-config.php:2011
-#, fuzzy
 msgid "ON=Pending, OFF=Publish"
-msgstr "ON = in Bearbeitung, OFF = Veröffentlichen"
+msgstr "ON=in Bearbeitung, OFF=Veröffentlichen"
 
 #: include/options-config.php:2012
 msgid "Enable to change the listing to pending after listing is edited. The listing will not show until published by admin."
@@ -2721,14 +2652,12 @@ msgid "Custom Icon for Archive & Search Pages"
 msgstr "Individuelles Icon für Archiv-und Suchseiten"
 
 #: include/options-config.php:2020
-#, fuzzy
 msgid "If Enable => It means that custom icon will work on listing archive and search result pages"
-msgstr "Wenn Aktiviert = > bedeutet das, dass das benutzerdefinierte Icon auf der Auflistung von Archiv-und Suchergebnisseiten funktioniert"
+msgstr "Wenn Aktiviert => bedeutet dies, dass das benutzerdefinierte Icon für Einträge im Archiv und auf den Suchergebnisseiten benutzt wird"
 
 #: include/options-config.php:2031
-#, fuzzy
 msgid "Uploade custom icon for Archive & Search Pages"
-msgstr "Laden Sie das benutzerdefinierte Symbol für Archiv- und Suchseiten hoch"
+msgstr "Laden Sie das benutzerdefinierte Icon für Archiv- und Suchseiten hoch"
 
 #: include/options-config.php:2036
 #, fuzzy
@@ -2740,9 +2669,8 @@ msgid "Listing Detail"
 msgstr "Partnerprogramm Details"
 
 #: include/options-config.php:2051
-#, fuzzy
 msgid "Select listing detail page Style"
-msgstr "Wählen Sie den Style der Inseratsseite aus"
+msgstr "Wählen Sie den Stil der Eintrags Detailsseite aus"
 
 #: include/options-config.php:2052
 msgid "Choose from 1 of 4 styles."
@@ -2754,9 +2682,8 @@ msgid "Header Background Image"
 msgstr "Header Hintergrundbild"
 
 #: include/options-config.php:2189
-#, fuzzy
 msgid "Top background image for this syle"
-msgstr "Top-Hintergrundbild für diese Style"
+msgstr "Top-Hintergrundbild für diesen Stil"
 
 #: include/options-config.php:2297
 #, fuzzy
@@ -2764,9 +2691,8 @@ msgid "Additional Details Position"
 msgstr "Weitere Details-Position"
 
 #: include/options-config.php:2298
-#, fuzzy
 msgid "Set additional details position to sidebar or below content area"
-msgstr "Legen Sie die Position der zusätzlichen Details für für die Sidebar oder unter Inhaltsbereich fest"
+msgstr "Position zusätzlicher Details in der Seitenleiste oder unter dem Inhaltsbereich festlegen"
 
 #: include/options-config.php:2310
 #, fuzzy
@@ -2774,14 +2700,12 @@ msgid "Video Display Option"
 msgstr "Videoanzeigeoption"
 
 #: include/options-config.php:2312
-#, fuzzy
 msgid "On=Show youtube video in popup, off=embed"
-msgstr "On = Youtube-Video im Popup zeigen, off = einbetten"
+msgstr "Ein=Youtube-Video im Popup zeigen, Aus=einbetten"
 
 #: include/options-config.php:2322
-#, fuzzy
 msgid "Detail Listing Page Report Button"
-msgstr "Detailseite Bericht Schaltfläche"
+msgstr "Melden-Button auf Eintrags - Detailseite"
 
 #: include/options-config.php:2323 include/options-config.php:2950
 #: include/options-config.php:3352 include/options-config.php:3374
@@ -2803,9 +2727,8 @@ msgid "design for content area"
 msgstr "Gestaltung für den Inhaltsbereich"
 
 #: include/options-config.php:2336
-#, fuzzy
 msgid "The design used when deals show within the content area."
-msgstr "Das Design, das verwendet wird, wenn Abschlüsse innerhalb des Inhaltsbereichs angezeigt werden."
+msgstr "Das Design, das verwendet wird, wenn Angebote innerhalb des Inhaltsbereichs angezeigt werden."
 
 #: include/options-config.php:2352
 msgid "Discount/Deals (sidebar)"
@@ -2817,18 +2740,16 @@ msgid "design for sidebar area"
 msgstr "Design für Sidebar-Bereich"
 
 #: include/options-config.php:2354
-#, fuzzy
 msgid "The design used when deals show within the sidebar."
-msgstr "Das Design, das verwendet wird, wenn Abschlüsse in der Seitenleiste angezeigt werden."
+msgstr "Das Design, das verwendet wird, wenn Deals in der Seitenleiste angezeigt werden."
 
 #: include/options-config.php:2383
-#, fuzzy
 msgid "Listing Archive View"
-msgstr "Archivansicht Darstellung"
+msgstr "Eintrag Archiv-Ansicht"
 
 #: include/options-config.php:2391 include/options-config.php:3758
 msgid "Listing page layout"
-msgstr "Listing Seite Layout"
+msgstr "Seitenlayout für Einträge"
 
 #: include/options-config.php:2421
 msgid "Background Image"
@@ -2848,9 +2769,8 @@ msgid "Display Style for child category boxes"
 msgstr "Anzeigestil für untergeordnete Kategoriefelder"
 
 #: include/options-config.php:2443
-#, fuzzy
 msgid "Choose display style for child categories "
-msgstr "Wählen Sie den Display-Stil für Kinder Kategorien "
+msgstr "Wählen Sie den Anzeigestil für untergeordnete Kategorien "
 
 #: include/options-config.php:2455
 msgid "Ad Image"
@@ -2861,23 +2781,20 @@ msgid "Put ad here"
 msgstr "Setzen Anzeige hier"
 
 #: include/options-config.php:2464
-#, fuzzy
 msgid "Listing grid/list "
-msgstr "Auflisten von Raster/Liste"
+msgstr "Eintrag Raster/Liste "
 
 #: include/options-config.php:2505
-#, fuzzy
 msgid "Include child Terms listings in Archive Results"
-msgstr "Child-Bedingungen in Archivergebnisse einschließen"
+msgstr "Einträge untergeordneter Terms in Archiv-Ergebnisse aufnehmen"
 
 #: include/options-config.php:2506
 msgid "Enable to show listings within child category when searching the main category."
 msgstr "Aktivieren Sie diese Option, um bei der Suche in der Hauptkategorie die Einträge innerhalb der Unterkategorie anzuzeigen."
 
 #: include/options-config.php:2516
-#, fuzzy
 msgid "Hide Grid/List switcher"
-msgstr "Grid/List-Switcher ausblenden"
+msgstr "Raster/Liste - Schalter ausblenden"
 
 #: include/options-config.php:2517
 msgid "Enable to show button to switch between grid and list view."
@@ -2898,9 +2815,8 @@ msgid "Choose an option"
 msgstr "Wähle eine Option"
 
 #: include/options-config.php:2538
-#, fuzzy
 msgid "Choose submit listing form style."
-msgstr "Wählen Sie den Formularstil \"Angebotsformular senden\" aus."
+msgstr "Wählen Sie den Stil des Formulars zur Einreichung von Einträgen."
 
 #: include/options-config.php:2549
 #, fuzzy
@@ -2913,9 +2829,8 @@ msgid "Enable to import details from Google Maps."
 msgstr "Aktivieren Sie das Importieren von Details aus Google Maps."
 
 #: include/options-config.php:2560
-#, fuzzy
 msgid "Gallery Images Upload Limit"
-msgstr "Gallery Images Upload Limit"
+msgstr "Galeriebilder Upload Limit"
 
 #: include/options-config.php:2561
 #, fuzzy
@@ -2952,14 +2867,12 @@ msgid "Total allowed images size in gallery"
 msgstr "Insgesamt erlaubte Dateigröße in der Galerie"
 
 #: include/options-config.php:2592 include/options-config.php:3492
-#, fuzzy
 msgid "Size is in Mbs, Just use integer value. e.g 5"
-msgstr "Dateigröße in MB, verwenden Sie Integer-Wert. z.B. 5"
+msgstr "Dateigröße in MB, verwenden Sie eine Ganzzahl. z.B. 5"
 
 #: include/options-config.php:2593
-#, fuzzy
 msgid "Enter total image size in MB. This is the total for all images within the listing."
-msgstr "Geben Sie die Gesamtbildgröße in MB ein. Dies ist die Summe für alle Bilder innerhalb der Auflistung."
+msgstr "Geben Sie die Gesamtbildgröße in MB ein. Dies ist die Summe für alle Bilder innerhalb eines Eintrags."
 
 #: include/options-config.php:2602
 #, fuzzy
@@ -2971,9 +2884,8 @@ msgid "Upload Image for Submit Listing"
 msgstr "Bild hochladen für Neuen Eintrag"
 
 #: include/options-config.php:2623
-#, fuzzy
 msgid "Second section Image "
-msgstr "Zweiter Abschnitt Bild"
+msgstr "Zweiter Abschnitt Bild "
 
 #: include/options-config.php:2632 include/options-config.php:2634
 #, fuzzy
@@ -3027,24 +2939,20 @@ msgid "Upload Image for Title Tip"
 msgstr "Bild für Titeltipp hochladen"
 
 #: include/options-config.php:2708
-#, fuzzy
 msgid "Image for Full Address Tip"
-msgstr "Bild für Full Address Tip"
+msgstr "Bild für vollständigen Adresstipp"
 
 #: include/options-config.php:2710
-#, fuzzy
 msgid "Upload Image for Full Address Tip"
-msgstr "Bild für Volladresse hochladen"
+msgstr "Bild für vollständige Adresse Tipp hochladen"
 
 #: include/options-config.php:2720
-#, fuzzy
 msgid "Image for City Tip"
-msgstr "Bild für City Tip"
+msgstr "Bild für Stadt Tipp"
 
 #: include/options-config.php:2722
-#, fuzzy
 msgid "Upload Image for City Tip"
-msgstr "Bild für City-Tipp hochladen"
+msgstr "Bild für Stadt-Tipp hochladen"
 
 #: include/options-config.php:2732
 #, fuzzy
@@ -3087,14 +2995,12 @@ msgid "Upload Image for Price Tip"
 msgstr "Bild für Preis-Tipp hochladen"
 
 #: include/options-config.php:2780
-#, fuzzy
 msgid "Image for Business Hours Tip"
-msgstr "Bild für Business Hours Tipp"
+msgstr "Bild für Öffnungszeiten Tipp"
 
 #: include/options-config.php:2782
-#, fuzzy
 msgid "Upload Image for Business Hours Tip"
-msgstr "Bild für Business Hours Tipp hochladen"
+msgstr "Bild für Öffnungszeiten Tipp hochladen"
 
 #: include/options-config.php:2792
 #, fuzzy
@@ -3147,19 +3053,16 @@ msgid "Upload Image for Gallery Tip"
 msgstr "Bild für Galerie-Tipp hochladen"
 
 #: include/options-config.php:2852
-#, fuzzy
 msgid "Image for Business Logo"
-msgstr "Image für Business-Logo"
+msgstr "Bild für Firmenlogo"
 
 #: include/options-config.php:2854
-#, fuzzy
 msgid "Upload Image for Business Logo"
-msgstr "Bild für Business-Logo hochladen"
+msgstr "Bild für Firmenlogo hochladen"
 
 #: include/options-config.php:2865
-#, fuzzy
 msgid "Quick Tips"
-msgstr "Schnelle Tipps"
+msgstr "Quick-Tipps"
 
 #: include/options-config.php:2866
 msgid "Enable To Show Quick Tips."
@@ -3174,9 +3077,8 @@ msgid "Quick Text"
 msgstr "Quick Text"
 
 #: include/options-config.php:2889
-#, fuzzy
 msgid "Title Text"
-msgstr "Text des Titels"
+msgstr "Titel-Text"
 
 #: include/options-config.php:2897
 #, fuzzy
@@ -3201,14 +3103,12 @@ msgid "Address"
 msgstr "Adresse"
 
 #: include/options-config.php:2924
-#, fuzzy
 msgid "Google Address Button Text"
-msgstr "Google-AdressschaltflächeText"
+msgstr "Google-Adresse Button Text"
 
 #: include/options-config.php:2933
-#, fuzzy
 msgid "Custom Address Button Text"
-msgstr "Benutzerdefinierter Adressschaltflächentext"
+msgstr "Benutzerdefinierter Adress-Button Text"
 
 #: include/options-config.php:2949
 #: templates/single-list/listing-details-style3/sidebar/map-social.php:67
@@ -3217,14 +3117,12 @@ msgid "Whatsapp"
 msgstr "WhatsApp"
 
 #: include/options-config.php:2960
-#, fuzzy
 msgid "Whatsapp Field Label"
-msgstr "Whatsapp Feld Label"
+msgstr "Whatsapp Feld Bezeichnung"
 
 #: include/options-config.php:2961
-#, fuzzy
 msgid "Label for whatsapp field"
-msgstr "Label für Whatsapp-Feld"
+msgstr "Bezeichnung für Whatsapp-Feld"
 
 #: include/options-config.php:2962
 #, fuzzy
@@ -3232,9 +3130,8 @@ msgid "It will show on listing submit and edit page"
 msgstr "Wird auf Eintrag einreichen und bearbeiten-Seite gezeigt"
 
 #: include/options-config.php:2969
-#, fuzzy
 msgid "Phone Text"
-msgstr "Telefon Nummer"
+msgstr "Telefon Text"
 
 #: include/options-config.php:2978
 #, fuzzy
@@ -3242,9 +3139,8 @@ msgid "Website URL"
 msgstr "Website URL"
 
 #: include/options-config.php:2985
-#, fuzzy
 msgid "Website Text"
-msgstr "Webseiten-Label"
+msgstr "Text für Webseite"
 
 #: include/options-config.php:2994
 #, fuzzy
@@ -3252,9 +3148,8 @@ msgid "Hours"
 msgstr "Stunden"
 
 #: include/options-config.php:3001
-#, fuzzy
 msgid "Operational Hours Text"
-msgstr "Betriebsstunden Text"
+msgstr "Öffnungszeiten Text"
 
 #: include/options-config.php:3010
 msgid "2nd Time Slot"
@@ -3290,27 +3185,24 @@ msgid "Select your listing features"
 msgstr "Wählen Sie zusätzliche Infos"
 
 #: include/options-config.php:3057
-#, fuzzy
 msgid "Price Range Text"
-msgstr "Preisbereich Text"
+msgstr "Preisspanne Text"
 
 #: include/options-config.php:3066
 msgid "Price From"
-msgstr "Kosten ab"
+msgstr "Preis von"
 
 #: include/options-config.php:3073
-#, fuzzy
 msgid "Price From Text"
-msgstr "Preis aus Text"
+msgstr "Preis von - Text"
 
 #: include/options-config.php:3082
 msgid "Price To"
-msgstr "Kosten bis"
+msgstr "Preis bis"
 
 #: include/options-config.php:3089
-#, fuzzy
 msgid "Price To Text"
-msgstr "Preis in Text"
+msgstr "Preis bis - Text"
 
 #: include/options-config.php:3098
 #, fuzzy
@@ -3337,9 +3229,8 @@ msgid "Social"
 msgstr "Soziale Netzwerke"
 
 #: include/options-config.php:3132
-#, fuzzy
 msgid "Hide or show all socials"
-msgstr "Verstecke oder zeige alle Socials"
+msgstr "Verstecke oder zeige alle sozialen Netzwerke"
 
 #: include/options-config.php:3138 include/options-config.php:3833
 #: template-login.php:136 template-login.php:258
@@ -3428,14 +3319,12 @@ msgid "Enter Your email"
 msgstr "Bitte geben Sie Ihre E-Mail-Adresse ein"
 
 #: include/options-config.php:3247
-#, fuzzy
 msgid "Submit Listing Button Text"
-msgstr "Senden Von Listing Button Text"
+msgstr "Eintrag einreichen Button Text"
 
 #: include/options-config.php:3255
-#, fuzzy
 msgid "Edit Listing Button Text"
-msgstr "Bearbeiten von Listenschaltflächentext"
+msgstr "Eintrag einreichen Button Text"
 
 #: include/options-config.php:3267 include/options-config.php:4225
 #: templates/dashboard/events.php:678 templates/dashboard/events.php:793
@@ -3451,9 +3340,8 @@ msgid "This section is for locations field in listing submission and edit. you c
 msgstr "Dieser Abschnitt bezieht sich auf das Feld \"Standorte\" bei der Einreichung und Bearbeitung von Einträgen. Sie können entweder die Option \"Auto\" oder \"Manuell\" auswählen"
 
 #: include/options-config.php:3280
-#, fuzzy
 msgid "Select Location Type"
-msgstr "Standort wählen"
+msgstr "Standortart wählen"
 
 #: include/options-config.php:3281
 #, fuzzy
@@ -3461,9 +3349,8 @@ msgid "Select option about locations"
 msgstr "Wählen Sie die Option für Standorte"
 
 #: include/options-config.php:3282
-#, fuzzy
 msgid "Select if locations are added by admin or via Google Maps. If Google is selected all locations in the world can be selected unless restricted below."
-msgstr "Wählen Sie aus, ob Standorte vom Administrator oder über Google Maps hinzugefügt werden. Wenn Google ausgewählt ist, können alle Standorte der Welt ausgewählt werden, es sei denn, dies ist unten eingeschränkt."
+msgstr "Wählen Sie aus, ob die Standorte vom Administrator oder über Google Maps hinzugefügt werden. Wenn Google ausgewählt ist, können alle Orte auf der Welt ausgewählt werden, sofern sie nicht unten eingeschränkt sind."
 
 #: include/options-config.php:3292
 #, fuzzy
@@ -3471,9 +3358,8 @@ msgid "Add Location Code"
 msgstr "Hinzufügen von Standortcode"
 
 #: include/options-config.php:3294 include/options-config.php:4398
-#, fuzzy
 msgid "Shortcode to restrict locations for specific country "
-msgstr "Shortcode Standorte für bestimmtes Land einschränken "
+msgstr "Shortcode um Standorte für bestimmte Länder einzuschränken "
 
 #: include/options-config.php:3295
 #, fuzzy
@@ -3521,9 +3407,8 @@ msgid "Post Review"
 msgstr "Bewertung schreiben"
 
 #: include/options-config.php:3340
-#, fuzzy
 msgid "Select option about review submit"
-msgstr "Wählen Sie die Option für Bewertung senden aus"
+msgstr "Wählen Sie die Option für „Bewertung senden“ aus"
 
 #: include/options-config.php:3341
 #, fuzzy
@@ -3531,9 +3416,8 @@ msgid "Choose if the user must be logged in to leave reviews."
 msgstr "Wählen Sie aus, ob der Benutzer angemeldet sein muss, um Bewertungen zu hinterlassen."
 
 #: include/options-config.php:3351
-#, fuzzy
 msgid "Use Listing Image if No Image Uploaded with Review"
-msgstr "Listenbild verwenden, wenn kein Bild mit Überprüfung hochgeladen wurde"
+msgstr "Eintrags-Bild verwenden, wenn kein Bild mit der Rezension hochgeladen wurde"
 
 #: include/options-config.php:3363
 #, fuzzy
@@ -3541,9 +3425,8 @@ msgid "Upload Placeholder Image for Reviews"
 msgstr "Platzhalterbild für Bewertungen hochladen"
 
 #: include/options-config.php:3365
-#, fuzzy
 msgid "In case if there are no images uploaded with reviews."
-msgstr "Falls es keine Bilder mit Bewertungen hochgeladen."
+msgstr "Falls keine Bilder mit Rezensionen hochgeladen wurden."
 
 #: include/options-config.php:3373
 #, fuzzy
@@ -3551,9 +3434,8 @@ msgid "Detail Listing Page Review Report Button"
 msgstr "Detail Listing Page Review Report Button"
 
 #: include/options-config.php:3385
-#, fuzzy
 msgid "Multi Rating"
-msgstr "Multi Bewertung"
+msgstr "Multi-Kriterien-Bewertung"
 
 #: include/options-config.php:3386
 msgid "Enable to choose multipoint reviews"
@@ -3610,18 +3492,16 @@ msgid "Maximum no. of images allowed in gallery while submitting a review"
 msgstr "Max. Anzahl Bilder in der Galerie für Rezension"
 
 #: include/options-config.php:3480
-#, fuzzy
 msgid "Gallery Images Size"
-msgstr "Dateigröße Bildergalerie"
+msgstr "Dateigröße der Galeriebilder"
 
 #: include/options-config.php:3493
 msgid "Allowed size of all images in gallery"
 msgstr "Erlaubte Größe aller Bilder in der Galerie"
 
 #: include/options-config.php:3505
-#, fuzzy
 msgid "Reviews Order Filter"
-msgstr "Bewertungen Bestellfilter"
+msgstr "Rezensionen Reihenfolge-Filter"
 
 #: include/options-config.php:3507
 #, fuzzy
@@ -3634,9 +3514,8 @@ msgid "Disable"
 msgstr "Deaktivieren"
 
 #: include/options-config.php:3519
-#, fuzzy
 msgid "Leads Form"
-msgstr "Interessenten Kontaktformular"
+msgstr "Interessenten Formular"
 
 #: include/options-config.php:3527
 msgid "Show / Hide leads form from listing detail page"
@@ -3657,9 +3536,8 @@ msgid "Show lead form only on claimed listing"
 msgstr "Leadformular nur bei beanspruchtem Angebot anzeigen"
 
 #: include/options-config.php:3540
-#, fuzzy
 msgid "on=show only on claimed, off= show on all listing"
-msgstr "on = Zeige nur auf beanspruchte, off = zeige auf alle Einträge"
+msgstr "Ein=Zeige nur auf beanspruchte, Aus=zeige auf alle Einträge"
 
 #: include/options-config.php:3541
 msgid "Enable to only show lead form within claimed listings"
@@ -3686,9 +3564,8 @@ msgid "Claim Form Top Image"
 msgstr "Anspruch-Formular Oberes Bild"
 
 #: include/options-config.php:3576
-#, fuzzy
 msgid "Upload Claim Popup Top Image."
-msgstr "Laden Sie Claim Popup Top Image hoch."
+msgstr "Beanspruchen-Popup oberes Bild hochladen."
 
 #: include/options-config.php:3582
 msgid "Claim Popup Image"
@@ -3704,9 +3581,8 @@ msgid "Claim Details"
 msgstr "Anspruch Details"
 
 #: include/options-config.php:3592
-#, fuzzy
 msgid "put text here about claim"
-msgstr "Text hier über Anspruch setzen"
+msgstr "Text zum Anspruch hier eingeben"
 
 #: include/options-config.php:3593
 #, fuzzy
@@ -3732,14 +3608,12 @@ msgid "Show nearby listings in listing detail page sidebar"
 msgstr "Nahegelegene Einträge in der Sidebar der Eintragsdetailseite anzeigen"
 
 #: include/options-config.php:3625
-#, fuzzy
 msgid "Add Distance for Nearby Location"
-msgstr "Entfernung zur nahe gelegenen Ort hinzufügen"
+msgstr "Entfernung zur nahe gelegenen Orten hinzufügen"
 
 #: include/options-config.php:3626
-#, fuzzy
 msgid "Enter only numberic values. Do not add distance units here"
-msgstr "Geben Sie nur numerische Werte. Fügen Sie hier Entfernungseinheiten"
+msgstr "Geben Sie nur numerische Werte ein. Fügen Sie hier keine Entfernungseinheiten hinzu"
 
 #: include/options-config.php:3627
 #, fuzzy
@@ -3747,14 +3621,12 @@ msgid "No units required."
 msgstr "Keine Einheiten erforderlich."
 
 #: include/options-config.php:3633
-#, fuzzy
 msgid "Destination in "
-msgstr "Reiseziel in "
+msgstr "Zielort in "
 
 #: include/options-config.php:3634
-#, fuzzy
 msgid "Nearby Destination Calculate in"
-msgstr "In der Nähe Destination Berechnen in"
+msgstr "Nahegelegenes Reiseziel Berechnen in"
 
 #: include/options-config.php:3635
 #, fuzzy
@@ -3877,9 +3749,8 @@ msgid "About Me"
 msgstr "Über mich"
 
 #: include/options-config.php:3814
-#, fuzzy
 msgid "Social Icons"
-msgstr "Social Icons"
+msgstr "Social-Media Icons"
 
 #: include/options-config.php:3827 include/options-config.php:3836
 #: include/options-config.php:3845 include/options-config.php:3854
@@ -3936,24 +3807,20 @@ msgid "Counters"
 msgstr "Zähler"
 
 #: include/options-config.php:3984
-#, fuzzy
 msgid "Listing Counter"
-msgstr "Listing-Zähler"
+msgstr "Eintrags-Zähler"
 
 #: include/options-config.php:3994
-#, fuzzy
 msgid "Photos Counter"
-msgstr "Fotos Counter"
+msgstr "Fotos-Zähler"
 
 #: include/options-config.php:4004
-#, fuzzy
 msgid "Reviews Counter"
-msgstr "Bewertungen Counter"
+msgstr "Bewertungs-Zähler"
 
 #: include/options-config.php:4014
-#, fuzzy
 msgid "Report Button"
-msgstr "Berichts-Button"
+msgstr "Melden-Button"
 
 #: include/options-config.php:4027 templates/dashboard/invoices.php:708
 msgid "Pricing Plan"
@@ -3968,14 +3835,12 @@ msgid "Enable to change the listing plan after existing expires"
 msgstr "Aktivieren, um den Preisplan nach Ablauf des aktuellen Plans zu ändern"
 
 #: include/options-config.php:4053
-#, fuzzy
 msgid "Select plan listings will switch to after expired."
-msgstr "Ausgewählte Planlisten werden nach Ablauf gewechselt."
+msgstr "Preisplan wählen, dem abgelaufene Einträge zugewiesen werden sollen."
 
 #: include/options-config.php:4059
-#, fuzzy
 msgid "Paid Listing Claim"
-msgstr "Bezahlter Inseratanspruch"
+msgstr "Bezahlter Eintragsanspruch"
 
 #: include/options-config.php:4070
 #, fuzzy
@@ -4010,9 +3875,8 @@ msgid "Show Annual Price Breakdown as Per Month"
 msgstr "Jährliche Preisaufschlüsselung als Monat anzeigen"
 
 #: include/options-config.php:4095
-#, fuzzy
 msgid "If you enble this option, Price will be display as per month in anual pricing plans"
-msgstr "Wenn Sie diese Option verwenden, wird der Preis wie pro Monat in jährlichen Preisplänen angezeigt."
+msgstr "Wenn Sie diese Option verwenden, wird der Preis wie pro Monat in jährlichen Preisplänen angezeigt"
 
 #: include/options-config.php:4096
 msgid "Enable to show how much the total would be if paid monthly."
@@ -4083,19 +3947,16 @@ msgid "IF you enable this option, when near me filter is active, location will b
 msgstr "Wenn Sie diese Option aktivieren, wenn in meiner Nähe der Filter aktiv ist, wird der Standort in allen Filterergebnissen ausgeschlossen"
 
 #: include/options-config.php:4236
-#, fuzzy
 msgid "Location Distance unit"
-msgstr "Positionsentfernungseinheit"
+msgstr "Standort Entfernung Einheit"
 
 #: include/options-config.php:4238
-#, fuzzy
 msgid "Nearme Destination Calculate in"
-msgstr "NearMe Ziel berechnen"
+msgstr "In meiner Nähe Ziel berechnen in"
 
 #: include/options-config.php:4261
-#, fuzzy
 msgid "Default Near Me Value"
-msgstr "Standardwert in der Nähe von mir"
+msgstr "Standardwert in meiner Nähe"
 
 #: include/options-config.php:4263
 #, fuzzy
@@ -4103,14 +3964,12 @@ msgid "Set default value of near me"
 msgstr "Setze Standardwert von „in meiner Nähe“"
 
 #: include/options-config.php:4270
-#, fuzzy
 msgid "Min Near Me Range"
-msgstr "Min Near Me Range"
+msgstr "Mindestwert für \"In meiner Nähe\" - Bereich"
 
 #: include/options-config.php:4279
-#, fuzzy
 msgid "Max Near Me Range"
-msgstr "Max Near Me Range"
+msgstr "Höchstwert für \"In meiner Nähe\" - Bereich"
 
 #: include/options-config.php:4288
 msgid "Additional Filter options"
@@ -4129,9 +3988,8 @@ msgid "Search"
 msgstr "Suchen"
 
 #: include/options-config.php:4306
-#, fuzzy
 msgid "What Field"
-msgstr "Welches Feld"
+msgstr "Was-Feld"
 
 #: include/options-config.php:4307
 msgid "Enable to show What Field within the search bar."
@@ -4147,14 +4005,12 @@ msgid "Search mode for home banner search WHAT field"
 msgstr "Suchmodus für Home-Banner-Suche WAS-Feld"
 
 #: include/options-config.php:4329
-#, fuzzy
 msgid "Default Search By"
-msgstr "Standardsuche von"
+msgstr "Standardmäßige Suche nach"
 
 #: include/options-config.php:4331
-#, fuzzy
 msgid "If someone does not select any suggestion from \"What\" field in the search form, then this option will show its impact on search results."
-msgstr "Wenn jemand im Suchformular keinen Vorschlag aus dem Feld \"Was\" auswählt, zeigt diese Option ihre Auswirkungen auf die Suchergebnisse an."
+msgstr "Wenn jemand keinen Vorschlag aus dem \"Was\"-Feld des Suchformulars auswählt, dann zeigt diese Option die entsprechenden Auswirkungen auf die Suchergebnisse an."
 
 #: include/options-config.php:4342
 #, fuzzy
@@ -4172,19 +4028,16 @@ msgid "Pre populated location in homepage search"
 msgstr "Vorausgewählter Ort in der Suche"
 
 #: include/options-config.php:4356
-#, fuzzy
 msgid "This require auto location enable"
-msgstr "Dies erfordert auto location enable"
+msgstr "Dies erfordert die automatische Standortfreigabe"
 
 #: include/options-config.php:4368
-#, fuzzy
 msgid "Enable typing in homepage location search field"
-msgstr "Erlaube eintippen auf Startseite Standort Suchfeld"
+msgstr "Eingaben im Suchfeld für den Standort der Homepage erlauben"
 
 #: include/options-config.php:4376
-#, fuzzy
 msgid "Enable typing in inner pages location search field"
-msgstr "Erlaube eintippen auf Unterseiten Standort Suchfeld"
+msgstr "Eingaben im Suchfeld für den Standort auf Unterseiten erlauben"
 
 #: include/options-config.php:4383
 #, fuzzy
@@ -4197,9 +4050,8 @@ msgid "Select option about locations Search"
 msgstr "Wählen Sie die Option über Standorte suchen"
 
 #: include/options-config.php:4386
-#, fuzzy
 msgid "locations option for listing search in search form"
-msgstr "locations Option zum Auflisten der Suche in der Suchmaske"
+msgstr "Standort Optionen zum auflisten der Suche im Suchformular"
 
 #: include/options-config.php:4396
 #, fuzzy
@@ -4212,19 +4064,16 @@ msgid "For locations codes, visit here."
 msgstr "Standortcodes finden Sie hier."
 
 #: include/options-config.php:4405
-#, fuzzy
 msgid "Exclude Listing Title From Suggestions in Search"
-msgstr "Listeneintrag von Vorschlägen in der Suche ausschließen"
+msgstr "Eintrags-Titel von Vorschlägen in der Suche ausschließen"
 
 #: include/options-config.php:4406
-#, fuzzy
 msgid "on=exclude,  off=include"
-msgstr "on = ausschließen, off = einschließen"
+msgstr "Ein=ausschließen, Aus=einschließen"
 
 #: include/options-config.php:4415
-#, fuzzy
 msgid "Payment"
-msgstr "Zahlung"
+msgstr "Bezahlung"
 
 #: include/options-config.php:4430
 msgid "Submitted Listing Require Approval"
@@ -4393,9 +4242,8 @@ msgid "Stripe"
 msgstr "Stripe"
 
 #: include/options-config.php:4716 include/options-config.php:4804
-#, fuzzy
 msgid "Select between Live and Sandbox. Sandbox is used for testing "
-msgstr "Wählen Sie zwischen Live und Sandbox. Sandbox wird zum Testen verwendet"
+msgstr "Wählen Sie zwischen Live und Sandbox. Sandbox wird zum Testen verwendet "
 
 #: include/options-config.php:4727
 msgid "Secret Key"
@@ -4508,9 +4356,8 @@ msgid "<span class=\"font24\">New Registered User</span>"
 msgstr "<span class=\"font24\">Neuer registrierter Benutzer</span>"
 
 #: include/options-config.php:4941
-#, fuzzy
 msgid "Use these shortcodes only for user registertaion email. %user_login_register as username, %user_pass_register as user password, %user_email_register as new user email"
-msgstr "Verwenden Sie diese Shortcodes nur für Benutzerregistrierungs-E-Mail. %user_login_register als Benutzernamen, %user_pass_register als Benutzer Passwort, %user_email_register als neue Benutzer-E-Mail"
+msgstr "Verwenden Sie diese Shortcodes nur für E-Mails zur Benutzerregistrierung. %user_login_register als Benutzername, %user_pass_register als Benutzerpasswort, %user_email_register als E-Mail für neue Benutzer"
 
 #: include/options-config.php:4946
 msgid "Subject for New User Notification"
@@ -4557,14 +4404,12 @@ msgid "<span class=\"font24\">Submit Listing</span>"
 msgstr "<span class=\"font24\">Neuer Eintrag</span>"
 
 #: include/options-config.php:5000
-#, fuzzy
 msgid "Use these shortcodes only for listng submission email. %listing_title as Listing title, %listing_url as Listing URL"
-msgstr "Verwenden Sie diese Shortcodes nur für die Eintrags-Einreichung E-Mail. %listing_title als Eintragstitel, %listing_url als Eintrags-URL"
+msgstr "Verwenden Sie diese Shortcodes nur für die E-Mail zur Einreichung von Einträgen. %listing_title als Titel des Eintrags, %listing_url als URL des Eintrags"
 
 #: include/options-config.php:5005
-#, fuzzy
 msgid "New Listing Submission Subject"
-msgstr "Neues Antragsbetreff"
+msgstr "Betreff für die Einreichung neuer Einträge"
 
 #: include/options-config.php:5006 include/options-config.php:5046
 msgid "Email subject"
@@ -4575,9 +4420,8 @@ msgid "Your listing has been submitted"
 msgstr "Ihre Liste wurde eingereicht"
 
 #: include/options-config.php:5017
-#, fuzzy
 msgid "New Listing Submission Content"
-msgstr "Neue Inhalts- und Angebotsübermittlungen"
+msgstr "Inhalt für die Einreichung neuer Einträge"
 
 #: include/options-config.php:5018 include/options-config.php:5054
 #: include/options-config.php:5137 include/options-config.php:5339
@@ -4585,32 +4429,28 @@ msgid "Email content"
 msgstr "E-Mail-Inhalt"
 
 #: include/options-config.php:5045
-#, fuzzy
 msgid "New Listing Submission Subject(for admin)"
-msgstr "Neue Auflistung Sendebetreff (für Admin)"
+msgstr "Betreff für die Einreichung neuer Einträge (für Admin)"
 
 #: include/options-config.php:5048
 msgid "New listing has been submitted"
 msgstr "Neue Liste wurde eingereicht"
 
 #: include/options-config.php:5053
-#, fuzzy
 msgid "New Listing Submission Content(for admin)"
-msgstr "Neue Listing Submission Content (für Admin)"
+msgstr "Inhalt für die Einreichung neuer Einträge (für Admin)"
 
 #: include/options-config.php:5085
 msgid "<span class=\"font24\">Purchase Activated</span>"
 msgstr "<span class=\"font24\">Kauf Aktiviert</span>"
 
 #: include/options-config.php:5086
-#, fuzzy
 msgid "Use these shortcodes only for purchased activated email. %listing_title as Listing title, %listing_url as Listing URL, %plan_title as Plan Title, %invoice_no as Invoice Number"
-msgstr "Verwenden Sie diese Shortcodes nur für gekaufte aktivierte E-Mails. %listing_title als Eintragstitel, %listing_url als Eintrags-URL, %plan_title als Preispaket-Titel, %invoice_no als Rechnungsnummer"
+msgstr "Verwenden Sie diese Short Codes nur für gekaufte aktivierte E-Mails. %listing_title als Titel des Eintrags, %listing_url als URL des Eintrags, %plan_title als Titel des Preisplans, %invoice_no als Rechnungsnummer"
 
 #: include/options-config.php:5091
-#, fuzzy
 msgid "Purchase Activated Subject"
-msgstr "Kauf aktivierter Betreff"
+msgstr "Kauf aktiviert Betreff"
 
 #: include/options-config.php:5092 include/options-config.php:5129
 msgid "Email subject for purchase activated"
@@ -4646,29 +4486,24 @@ msgid "<span class=\"font24\">Review Reply</span>"
 msgstr "<span class=\"font24\">Antwort überprüfen</span>"
 
 #: include/options-config.php:5169
-#, fuzzy
 msgid "Use these shortcodes only for review reply email. %listing_title as Listing title, %listing_url as Listing URL, %sender_name as Sender Name, %reply as Review Reply "
-msgstr "Verwenden Sie diese Shortcodes nur für die Überprüfung Antwort e-Mail. % listing_title als Listen Titel,% listing_url als Auflistung URL, %sender_name als Absender Name,%-Antwort als Rezensions Antwort "
+msgstr "Verwenden Sie diese Shortcodes nur für E-Mail-Antworten zur Überprüfung. %listing_title als Eintragstitel, %listing_url als Eintrags-URL, %sender_name als Absendername, %reply als Rezensions-Antwort "
 
 #: include/options-config.php:5174
-#, fuzzy
 msgid "Review Reply Subject"
-msgstr "Überprüfung der Bewertung"
+msgstr "Rezension Antwort Betreff"
 
 #: include/options-config.php:5175
-#, fuzzy
 msgid "Email subject for Review Reply"
-msgstr "E-Mail-Betreff für Review Antwort"
+msgstr "E-Mail-Betreff für Bewertungsantwort"
 
 #: include/options-config.php:5177
-#, fuzzy
 msgid "Review Reply"
-msgstr "Bewertung Antworten"
+msgstr "Rezension beantworten"
 
 #: include/options-config.php:5182
-#, fuzzy
 msgid "Review Reply Content"
-msgstr "Inhalt der Antwort überprüfen"
+msgstr "E-Mail-Inhalt für die Antwort auf die Bewertung"
 
 #: include/options-config.php:5183
 msgid "Email content for Review Reply"
@@ -4679,14 +4514,12 @@ msgid "<span class=\"font24\">Approved Listing</span>"
 msgstr "<span class=\"font24\">Genehmigtes Listing</span>"
 
 #: include/options-config.php:5201
-#, fuzzy
 msgid "Use these shortcodes only for Listing Approve email. %listing_title as Listing title, %listing_url as Listing URL"
-msgstr "Verwenden Sie diese Shortcodes nur für die „Eintrag freigegeben“-E-Mail. %listing_title als Eintragstitel, %listing_url als Eintrags-URL"
+msgstr "Verwenden Sie diese Shortcodes nur für Eintrag genehmigen E-Mail. %listing_title als Titel des Eintrags, %listing_url als URL des Eintrags"
 
 #: include/options-config.php:5206
-#, fuzzy
 msgid "Listing Approved Subject"
-msgstr "Auflistung zugelassener Einträge"
+msgstr "Eintrag genehmigt Betreff"
 
 #: include/options-config.php:5207
 msgid "Email subject for approved listing"
@@ -4697,9 +4530,8 @@ msgid "Your listing approved"
 msgstr "Ihre Auflistung genehmigt"
 
 #: include/options-config.php:5214
-#, fuzzy
 msgid "Listing Approved Content"
-msgstr "Auflistung genehmigter Einträge"
+msgstr "Eintrag genehmigt Inhalt"
 
 #: include/options-config.php:5215
 msgid "Email content for listing approved"
@@ -4715,9 +4547,8 @@ msgid "Use these shortcodes only for Listing Expired email. %listing_title as Li
 msgstr "Verwenden Sie diese Shortcodes nur für „Eintrag abgelaufen“-E-Mails. %listing_title als Eintragstitel, %listing_url als Eintrags-URL"
 
 #: include/options-config.php:5251
-#, fuzzy
 msgid "Listing Expired Subject"
-msgstr "Auflistung abgelaufenes Einträge"
+msgstr "Eintrag abgelaufen Betreff"
 
 #: include/options-config.php:5252
 msgid "Email subject for expired listing"
@@ -4728,9 +4559,8 @@ msgid "Your listing expired"
 msgstr "Ihr Eintrag ist abgelaufen"
 
 #: include/options-config.php:5259
-#, fuzzy
 msgid "Listing Expired Content"
-msgstr "Auflistung abgelaufener Einträge"
+msgstr "Eintrag abgelaufen Inhalt"
 
 #: include/options-config.php:5260
 msgid "Email content for listing expired"
@@ -4741,9 +4571,8 @@ msgid "<span class=\"font24\">Expired Ad Campaign</span>"
 msgstr "<span class=\"font24\">Abgelaufene Werbeanzeige</span>"
 
 #: include/options-config.php:5276
-#, fuzzy
 msgid "Use these shortcodes only for Ad Campaign Expired email. %listing_title as Listing title, %listing_url as Listing URL"
-msgstr "Verwenden Sie diese Shortcodes nur für „WerbeKampagne abgelaufen“-E-Mail. %listing_title als Eintragstitel, %listing_url als Eintrags-URL"
+msgstr "Verwenden Sie diese Shortcodes nur für E-Mails mit der Meldung \"Werbekampagne abgelaufen\". %listing_title als Titel des Eintrags, %listing_url als URL des Eintrags"
 
 #: include/options-config.php:5281
 msgid "Ad Expired Subject"
@@ -4770,9 +4599,8 @@ msgid "Wire Invoice"
 msgstr "Draht Rechnung"
 
 #: include/options-config.php:5321
-#, fuzzy
 msgid "Use these shortcodes only for Wire Invoice email. %listing_title as Listing title, %listing_url as Listing URL, %invoice_no as invoice number"
-msgstr "Verwenden Sie diese Shortcodes nur für „Überweisung-Rechnungs“-E-Mails. %listing_title als Eintragsbezeichnung, %listing_url als Eintrags-URL, %invoice_no als Rechnungsnummer"
+msgstr "Verwenden Sie diese Shortcodes nur für Wire Invoice E-Mail. %listing_title als Titel des Eintrags, %listing_url als URL des Eintrags, %invoice_no als Rechnungsnummer"
 
 #: include/options-config.php:5326
 #, fuzzy
@@ -4821,9 +4649,8 @@ msgid "Use these shortcodes only for Claim email. %listing_title as Listing titl
 msgstr "Verwenden Sie diese Shortcodes nur für „Eintrag übernehmen“-E-Mail. %listing_title als Eintragsitel, %listing_url als Eintrags-URL"
 
 #: include/options-config.php:5411
-#, fuzzy
 msgid "Listing Claim Submission Subject"
-msgstr "Gegenstand der Auflistung der Antragseinreichung"
+msgstr "Eintrag-Übernahme eingereicht Betreff"
 
 #: include/options-config.php:5412
 msgid "Email subject for claimer"
@@ -4834,9 +4661,8 @@ msgid "Your claim has submitted"
 msgstr "Ihre Forderung hat eingereicht"
 
 #: include/options-config.php:5419
-#, fuzzy
 msgid "Listing Claim Submission Content"
-msgstr "Auflisten von Inhalt der Antragseinreichung"
+msgstr "Eintrag-Übernahme eingereicht Inhalt"
 
 #: include/options-config.php:5420
 msgid "Email content for claimer"
@@ -4848,9 +4674,8 @@ msgid "Your Claim on listing <a href=\"%listing_url\">%listing_title</a> has bee
 msgstr "Ihr Übernahmewunsch für <a href=\"%listing_url\">% listing_title</a> wurde übermittelt"
 
 #: include/options-config.php:5432
-#, fuzzy
 msgid "Listing Claim Submission Subject (Author)"
-msgstr "Gegenstand der Auflistung der Antragseinreichung (Autor)"
+msgstr "Eintrag-Übernahme eingereicht Betreff (Autor)"
 
 #: include/options-config.php:5433
 msgid "Email subject for Author"
@@ -4861,18 +4686,16 @@ msgid "A claim has been submitted on your listing"
 msgstr "Ein Antrag wurde bei Ihrem Inserat eingereicht"
 
 #: include/options-config.php:5440
-#, fuzzy
 msgid "Listing Claim Submission Content (Author)"
-msgstr "Auflisten von Inhalt der Anspruchseinreichung (Autor)"
+msgstr "Eintrag-Übernahme eingereicht Inhalt (Autor)"
 
 #: include/options-config.php:5441
 msgid "Email content for Author"
 msgstr "E-Mail-Inhalt für Autor"
 
 #: include/options-config.php:5443
-#, fuzzy
 msgid "Hi, A claim has been submitted on your listing <a href=\"%listing_url\">%listing_title</a>. Please contact admin for further details"
-msgstr "Hallo, Ein Antrag wurde auf Ihrem Eintrag <a href=\"%listing_url\">% listing_title</a> eingereicht. Bitte kontaktieren Sie den Administrator für weitere Details"
+msgstr "Hallo, Ein Antrag wurde zu Ihrem Eintrag <a href=\"%listing_url\">%listing_title</a> eingereicht. Bitte kontaktieren Sie den Administrator für weitere Details"
 
 #: include/options-config.php:5453
 msgid "Listing Claim Submission Subject (Admin)"
@@ -4887,9 +4710,8 @@ msgid "New Claim has been submitted"
 msgstr "Neuer Anspruch wurde eingereicht"
 
 #: include/options-config.php:5461
-#, fuzzy
 msgid "Listing Claim Submission Content (Admin)"
-msgstr "Auflisten von Antragsübermittlungsinhalten (Admin)"
+msgstr "Eintrag-Übernahme eingereicht Betreff (Admin)"
 
 #: include/options-config.php:5462 include/options-config.php:5543
 #: include/options-config.php:5573
@@ -4897,9 +4719,8 @@ msgid "Email content for Admin"
 msgstr "E-Mail-Inhalt für Admin"
 
 #: include/options-config.php:5464
-#, fuzzy
 msgid "You have received a new claim on a listing <a href=\"%listing_url\">%listing_title</a> Please login on dashboard for more details"
-msgstr "Sie haben einen neuen Anspruch auf einen Eintrag erhalten <a href=“%listing_url”>% listing_title </a> Bitte melden Sie sich im Dashboard für weitere Details an"
+msgstr "Sie haben einen neuen Anspruch auf einen Eintrag erhalten <a href=“%listing_url”>%listing_title </a> Bitte melden Sie sich im Dashboard für weitere Details an"
 
 #: include/options-config.php:5477
 msgid "Claim Listing ( Approval )"
@@ -4932,9 +4753,8 @@ msgid "Email content(claimer)"
 msgstr "E-Mail-Inhalt (Antragsteller)"
 
 #: include/options-config.php:5494
-#, fuzzy
 msgid "Your Claim on listing <a href=\"%listing_url\">%listing_title</a> has been approved"
-msgstr "Ihr Eintrag auf das Listing <a href=\"%listing_url\">% listing_title</a> wurde genehmigt"
+msgstr "Ihr Antrag für die Übernahme des Eintrags <a href=\"%listing_url\">%listing_title</a> wurde genehmigt"
 
 #: include/options-config.php:5505
 msgid "Email subject(old owner)"
@@ -4949,9 +4769,8 @@ msgid "Email content(old owner)"
 msgstr "E-Mail-Inhalt (alter Besitzer)"
 
 #: include/options-config.php:5515
-#, fuzzy
 msgid "Claim against your listing has been has been approved.Details are : <a href=\"%listing_url\">%listing_title</a>"
-msgstr "Ihr Eintrag mein-indes.at <a href=\"%listing_url\">% listing_title</a> wurde genehmigt"
+msgstr "Eine Übernahme zu Ihrem Eintrag <a href=\"%listing_url\">%listing_title</a> wurde genehmigt"
 
 #: include/options-config.php:5528
 #, fuzzy
@@ -4995,9 +4814,8 @@ msgid "Use these shortcodes only for Author Campaign Activation email. %listing_
 msgstr "Verwenden Sie diese Shortcodes nur für die E-Mail zur Aktivierung von Kampagnen an den Autor. %listing_title als Eintragsbezeichnung, %listing_url als Eintrags-URL, %campaign_packages als Preispaket"
 
 #: include/options-config.php:5575
-#, fuzzy
 msgid "You have activated a campaign on a listing <a href=\"%listing_url\">%listing_title</a>  With packages %campaign_packages "
-msgstr "Sie haben eine Kampagne in einer Liste aktiviert <a href=“%listing_url”>% listing_title </a>  Mit den Paketen % campaign_packages "
+msgstr "Sie haben eine Kampagne zu Ihrem Eintrag <a href=“%listing_url”>%listing_title </a> aktiviert. Mit den Paketen %campaign_packages "
 
 #: include/options-config.php:5588
 #, fuzzy
@@ -5064,9 +4882,8 @@ msgid "Email content by admin"
 msgstr "E-Mail-Inhalt von Admin"
 
 #: include/options-config.php:5627
-#, fuzzy
 msgid "A Payment is due by a user after %notifybefore day/days. Details are: Listing: %listing_title, Plan: %plan_title, Price: %plan_price, Duration: %plan_duration day/days   "
-msgstr "Eine Zahlung erfolgt durch einen Benutzer nach %notifybefore Tag/Tage. Details sind: Listing: %listing_title, Plan: %plan_title, Preis: %plan_price, Dauer: %plan_duration Tag/Tage  "
+msgstr "Eine Zahlung erfolgt durch einen Benutzer nach %notifybefore Tag/Tagen. Details sind: Listing: %listing_title, Plan: %plan_title, Preis: %plan_price, Dauer: %plan_duration Tag/Tage  "
 
 #: include/options-config.php:5640
 #, fuzzy
@@ -5131,23 +4948,20 @@ msgid "Use these shortcodes only for Lead form email. %listing_title as listing 
 msgstr "Verwenden Sie diese Shortcodes nur für „Interessenten-Formular“-E-Mail. %listing_title als Eintragsbezeichnung, %sender_name für Absendername, %sender_email für Absender-E-Mail, %sender_phone für Absender-Telefonnummer und %sender_message für Absendernachricht"
 
 #: include/options-config.php:5698
-#, fuzzy
 msgid "Lead Form Subject"
-msgstr "Lead Form Betreff"
+msgstr "Kontaktformular Betreff"
 
 #: include/options-config.php:5699
 msgid "Email subject for lead form"
 msgstr "E-Mail-Betreff für Lead-Formular"
 
 #: include/options-config.php:5701
-#, fuzzy
 msgid "Somone contacted for a listing"
-msgstr "Jemand kontaktiert Sie zu Ihrem Inserat"
+msgstr "Sie haben eine Anfrage zu Ihrem Eintrag erhalten"
 
 #: include/options-config.php:5706
-#, fuzzy
 msgid "Lead Form Content"
-msgstr "Lead-Formularinhalt"
+msgstr "Kontaktformular Inhalt"
 
 #: include/options-config.php:5707
 msgid "Email content for lead form"
@@ -5173,19 +4987,16 @@ msgid "Review Submission Subject (Author)"
 msgstr "Bewertungsbeitragsbetreff (Autor)"
 
 #: include/options-config.php:5729
-#, fuzzy
 msgid "Enter Subject of Email for Listing Author"
-msgstr "Geben Sie Betreff der Email für den Inseratsautor an"
+msgstr "Geben Sie den Betreff der Email für den Eintrags-Autor an"
 
 #: include/options-config.php:5731 include/options-config.php:5752
-#, fuzzy
 msgid "Review Submit Email"
-msgstr "Bewertung - Email abschicken"
+msgstr "Rezension einreichen E-Mail"
 
 #: include/options-config.php:5736
-#, fuzzy
 msgid "Review Submission Content (Author)"
-msgstr "Prüfungsinhalt überprüfen (Autor)"
+msgstr "Rezension Einreichen Inhalt (Autor)"
 
 #: include/options-config.php:5737
 msgid "Email content for Listing Author"
@@ -5196,19 +5007,16 @@ msgid "Someone has reviewed on the listing \"%listing_title\" which is yours. De
 msgstr "Jemand hat Ihren Eintrag \"%listing_title\" bewertet. Details sind wie folgt<br>Rezensent: %reviewer_email<br>Rezension: %reviewtext<br>Eintrag:%listing_title<br>URL: %listing_url"
 
 #: include/options-config.php:5749
-#, fuzzy
 msgid "Review Submission Subject(Reviewer)"
-msgstr "Bewertung Submission Subject(Reviewer)"
+msgstr "Rezension einreichen Betreff (Rezensent)"
 
 #: include/options-config.php:5750
-#, fuzzy
 msgid "Enter Subject of Email for Reviewer"
-msgstr "Betreff der E-Mail für den Gutachter eingeben"
+msgstr "Betreff der E-Mail für den Rezensenten eingeben"
 
 #: include/options-config.php:5757
-#, fuzzy
 msgid "Review Submission content(Reviewer)"
-msgstr "Überprüfen des Übermittlungsinhalts (Reviewer)"
+msgstr "Rezension einreichen Inhalt (Rezensent)"
 
 #: include/options-config.php:5758
 #, fuzzy
@@ -5216,9 +5024,8 @@ msgid "Email content for Reviewer"
 msgstr "E-Mail Inhalt für Rezensent"
 
 #: include/options-config.php:5760
-#, fuzzy
 msgid "You have reviewed on the listing \"%listing_title\". Details are following<br>Listing:%listing_title<br>URL: %listing_url"
-msgstr "Sie haben die Auflistung „%listing_title“ überprüft. Details folgen <br>Listing:%listing_title<br>URL: %auflistung_url"
+msgstr "Sie haben den Eintrag „%listing_title“ bewertet. Details: <br>Eintrag:%listing_title<br>URL: %listing_url"
 
 #: include/options-config.php:5773
 #, fuzzy
@@ -5236,24 +5043,20 @@ msgid "Signup"
 msgstr "Registrieren"
 
 #: include/options-config.php:5792
-#, fuzzy
 msgid "Show Agree to the Privacy Policy during using Signup"
-msgstr "Zeigen Sie der Datenschutzrichtlinie während der Verwendung von Signup zu"
+msgstr "Anzeigen der Zustimmung zur Datenschutzrichtlinie während der Anmeldung"
 
 #: include/options-config.php:5802 include/options-config.php:6111
-#, fuzzy
 msgid "Listing Submission"
-msgstr "Neues Eintrag einreichen"
+msgstr "Neuen Eintrag einreichen"
 
 #: include/options-config.php:5804
-#, fuzzy
 msgid "Show Agree to the Privacy Policy during Listing Submission"
-msgstr "Zeigen Sie der Datenschutzrichtlinie während der Angebotsübermittlung zu"
+msgstr "Anzeigen der Zustimmung zu den Datenschutzrichtlinien bei der Einreichung von Einträgen"
 
 #: include/options-config.php:5814
-#, fuzzy
 msgid "Review Submission"
-msgstr "Bewertung sende"
+msgstr "Rezension Einreichung"
 
 #: include/options-config.php:5816
 #, fuzzy
@@ -5273,9 +5076,8 @@ msgid "Show Agree to the Privacy Policy on Lead Forms"
 msgstr "Anzeigen der Datenschutzrichtlinie auf Lead-Formularen"
 
 #: include/options-config.php:5838
-#, fuzzy
 msgid "Listing Claim Form"
-msgstr "Inseratantragsformular"
+msgstr "Formular für beanspruchte Einträge"
 
 #: include/options-config.php:5840
 msgid "Show Agree to the Privacy Policy during Listing Claim Submission"
@@ -5343,9 +5145,8 @@ msgid "Select type of campaign"
 msgstr "Wähe den Typ der Kampagne"
 
 #: include/options-config.php:5935
-#, fuzzy
 msgid "Select Type of Ad Campaign Used"
-msgstr "Wählen Sie Typ der verwendeten Anzeigenkampagne aus"
+msgstr "Wählen Sie den Typ der verwendeten Anzeigenkampagne aus"
 
 #: include/options-config.php:5937
 msgid "Pay Per Day (PPD)"
@@ -5361,9 +5162,8 @@ msgid "Promotion Title"
 msgstr "Promotionstitel"
 
 #: include/options-config.php:5953
-#, fuzzy
 msgid "Spotlight Ads"
-msgstr "Startseite ADS"
+msgstr "Spotlight-Anzeigen"
 
 #: include/options-config.php:5954
 msgid "Enable Spotlight Ads. Spotlight Ads show in the Listing Posts Element"
@@ -5394,9 +5194,8 @@ msgid "Enable Side of Listing Ads. Side of Listing ads requires Widget within Li
 msgstr "Aktivieren Sie die Seite der Anzeigen. Seite der Anzeigen erfordert Widget im Eintrag"
 
 #: include/options-config.php:5996
-#, fuzzy
 msgid "Side of Listing (PPD)"
-msgstr "Seite der Auflistung (PPD)"
+msgstr "Seite der Einträge (PPD)"
 
 #: include/options-config.php:6004 include/options-config.php:6018
 #: include/options-config.php:6039 include/options-config.php:6053
@@ -5405,9 +5204,8 @@ msgid "Enter the amount you want to charge business owners to promote their list
 msgstr "Geben Sie den Betrag ein, den Sie Eintragsinhabern berechnen möchten, um Ihre Einträge für dieses Format und die Platzierung zu bewerben (KEIN Währungszeichen eingeben)."
 
 #: include/options-config.php:6010
-#, fuzzy
 msgid "Side of Listing (PPC)"
-msgstr "Seite der Auflistung (PPC)"
+msgstr "Seite des Eintrags (PPC)"
 
 #: include/options-config.php:6023
 msgid "Top of Search Ads"
@@ -5482,9 +5280,8 @@ msgid "Show Google reCAPTCHA during User Login"
 msgstr "Google reCAPTCHA während der Benutzeranmeldung anzeigen"
 
 #: include/options-config.php:6112
-#, fuzzy
 msgid "Show Google reCAPTCHA during Listing Submission"
-msgstr "Google reCAPTCHA während der Angebotsübermittlung anzeigen"
+msgstr "Google reCAPTCHA während der Einreichung eines Eintrags anzeigen"
 
 #: include/options-config.php:6119
 #, fuzzy
@@ -5492,24 +5289,20 @@ msgid "Listing Edit"
 msgstr "Eintrag bearbeiten"
 
 #: include/options-config.php:6120
-#, fuzzy
 msgid "Show Google reCAPTCHA during Edit Listing"
-msgstr "Google reCAPTCHA während der Bearbeitungsliste anzeigen"
+msgstr "Google reCAPTCHA während der Bearbeitung eines Eintrags anzeigen"
 
 #: include/options-config.php:6128
-#, fuzzy
 msgid "Show Google reCAPTCHA on Listing Lead Form"
-msgstr "Google reCAPTCHA auf Deminsierungs-Lead-Formular anzeigen"
+msgstr "Google reCAPTCHA im Kontaktformular für Einträge anzeigen"
 
 #: include/options-config.php:6135
-#, fuzzy
 msgid "Review Form"
-msgstr "Formular überprüfen"
+msgstr "Rezensions-Formular"
 
 #: include/options-config.php:6136
-#, fuzzy
 msgid "Show Google reCAPTCHA on Listing Review Submission"
-msgstr "Google reCAPTCHA bei der Einreichung von Listing-Überprüfungen anzeigen"
+msgstr "Anzeigen von Google reCAPTCHA bei der Einreichung von Rezensionen zu Einträgen"
 
 #: include/options-config.php:6143
 msgid "Contact Page Form"
@@ -5543,34 +5336,28 @@ msgid "Please update permalinks ( under Settings menu ) after any changes you ma
 msgstr "Bitte aktualisieren Sie Permalinks (unter Einstellungen-Menü) nach Änderungen, die Sie in folgenden Schnecken machen (um eine 404 Fehlerseite zu vermeiden)"
 
 #: include/options-config.php:6177
-#, fuzzy
 msgid "listing slug"
-msgstr "Auflistung slug"
+msgstr "Eintrag slug"
 
 #: include/options-config.php:6178
-#, fuzzy
 msgid "Default is \"listing\""
-msgstr "Standard ist \"Eintrag\""
+msgstr "Standard ist \"eintrag\""
 
 #: include/options-config.php:6184
-#, fuzzy
 msgid "listing category slug"
-msgstr "Auflistung slug"
+msgstr "Eintrag Kategorie slug"
 
 #: include/options-config.php:6185
-#, fuzzy
 msgid "Default is \"listing-category\""
-msgstr "Standard ist \"Einträge-Kategorie\""
+msgstr "Standard ist \"eintrag-kategorie\""
 
 #: include/options-config.php:6191
-#, fuzzy
 msgid "Location slug"
-msgstr "Standort Schlagwort"
+msgstr "Standort slug"
 
 #: include/options-config.php:6192
-#, fuzzy
 msgid "Default is \"location\""
-msgstr "Standard ist \"Ort\""
+msgstr "Standard ist \"ort\""
 
 #: include/options-config.php:6198
 #, fuzzy
@@ -5578,19 +5365,16 @@ msgid "Features slug"
 msgstr "Eigenschaften slug"
 
 #: include/options-config.php:6199
-#, fuzzy
 msgid "Default is \"features\""
-msgstr "Standard ist \"Features\""
+msgstr "Standard ist \"features\""
 
 #: include/options-config.php:6205
-#, fuzzy
 msgid "Events slug"
-msgstr "Veranstaltungen Slug"
+msgstr "Events slug"
 
 #: include/options-config.php:6206
-#, fuzzy
 msgid "Default is \"events\""
-msgstr "Standard ist „events“"
+msgstr "Standard ist \"events\""
 
 #: include/options-config.php:6212
 #, fuzzy
@@ -5598,9 +5382,8 @@ msgid "Frontend Dashboard Page"
 msgstr "Frontend-Dashboard-Seite"
 
 #: include/options-config.php:6221
-#, fuzzy
 msgid "Submit Listing Page"
-msgstr "Mietangebot hinzufügen Seite"
+msgstr "Eintrag einreichen Seite"
 
 #: include/options-config.php:6223
 msgid "Select the page used for Listing Submission (Page must include the Submit Listing Shortcode)"
@@ -5644,9 +5427,8 @@ msgid "Contact information"
 msgstr "Kontakt Information"
 
 #: include/options-config.php:6269
-#, fuzzy
 msgid "ON=SHOW, OFF= HIDE"
-msgstr "ON=Anzeigen, OFF=Ausblenden"
+msgstr "EIN=Anzeigen, AUS=Ausblenden"
 
 #: include/options-config.php:6276
 msgid "Title for contact information"
@@ -5674,9 +5456,8 @@ msgid "Add or edit Form settings"
 msgstr "Hinzufügen oder Bearbeiten von Formulareinstellungen"
 
 #: include/options-config.php:6390
-#, fuzzy
 msgid "Cotact Form Provider"
-msgstr "Cotact Formularanbieter"
+msgstr "Kontaktformular Anbieter"
 
 #: include/options-config.php:6391
 #, fuzzy
@@ -5684,18 +5465,16 @@ msgid "Enter the Shortcode for your preferred form. (be sure to install wpforms 
 msgstr "Geben Sie den Shortcode für Ihr bevorzugtes Formular ein. (Installieren Sie wpforms lite.)"
 
 #: include/options-config.php:6401
-#, fuzzy
 msgid "Header for From"
-msgstr "Header für From"
+msgstr "Header für Formular"
 
 #: include/options-config.php:6408
 msgid "Successful Submission Message"
 msgstr "Nachricht über erfolgreiche Einreichung"
 
 #: include/options-config.php:6416
-#, fuzzy
 msgid "Failed Submission Message"
-msgstr "Fehlerhafte Übermittlungsnachricht"
+msgstr "Nachricht über gescheiterte Übermittlung"
 
 #: include/options-config.php:6424
 #, fuzzy
@@ -5746,9 +5525,8 @@ msgid "Footer Layout"
 msgstr "Footer Layout"
 
 #: include/options-config.php:6477
-#, fuzzy
 msgid "Select Footer layout"
-msgstr "Fußzeilen Layout auszuwählen"
+msgstr "Footer Layout auszuwählen"
 
 #: include/options-config.php:6478
 #, fuzzy
@@ -5756,57 +5534,48 @@ msgid "Select from 1 of 11 Layout Styles."
 msgstr "Wählen Sie aus 1 von 11 Layoutstilen aus."
 
 #: include/options-config.php:6532 include/options-config.php:6533
-#, fuzzy
 msgid "Select  footer widget layout"
-msgstr "Fußzeilen Widget Layout auswählen"
+msgstr "Footer Widget Layout auswählen"
 
 #: include/options-config.php:6534
-#, fuzzy
 msgid "Control the number of columns in the footer"
-msgstr "Steuern der Anzahl der Spalten in der Fußzeile"
+msgstr "Steuern der Anzahl der Spalten im Footer"
 
 #: include/options-config.php:6549
-#, fuzzy
 msgid "Footer top area Background color"
-msgstr "Fußzeile oberer Bereich Hintergrundfarbe"
+msgstr "Footer oberer Bereich Hintergrundfarbe"
 
 #: include/options-config.php:6550 include/options-config.php:6577
 msgid "(default: #363f48)."
 msgstr "(Standard: #363f48)."
 
 #: include/options-config.php:6551
-#, fuzzy
 msgid "Controls the Background Color of the Footer "
-msgstr "Steuert die Hintergrundfarbe der Fußzeile"
+msgstr "Steuert die Hintergrundfarbe des Footers "
 
 #: include/options-config.php:6559
-#, fuzzy
 msgid "Footer bottom area Background color"
-msgstr "Fußtrittsboden Hintergrundfarbe"
+msgstr "Unterer Bereich der Footer - Hintergrundfarbe"
 
 #: include/options-config.php:6560 include/options-config.php:6594
 msgid "(default: #45505b)."
 msgstr "(Standard: #42a7df)."
 
 #: include/options-config.php:6568
-#, fuzzy
 msgid "Footer Top Text Color ON/OFF"
-msgstr "Fußzeile oberer Text Farbe An/Aus"
+msgstr "Footer oberer Text Farbe AN/AUS"
 
 #: include/options-config.php:6576
-#, fuzzy
 msgid "Footer top area text color"
-msgstr "Fußzeile oberer Bereich Textfarbe"
+msgstr "Footer oberer Bereich Textfarbe"
 
 #: include/options-config.php:6585
-#, fuzzy
 msgid "Footer Bottom Text Color ON/OFF"
-msgstr "Fußzeile untere Textfarbe An/Aus"
+msgstr "Footer untere Textfarbe AN/AUS"
 
 #: include/options-config.php:6593
-#, fuzzy
 msgid "Footer bottom area text color"
-msgstr "Fußzeile unterer Bereich Textfarbe"
+msgstr "Footer unterer Bereich Textfarbe"
 
 #: include/options-config.php:6666
 #, fuzzy
@@ -5814,9 +5583,8 @@ msgid "Copyright text"
 msgstr "Copyright Text"
 
 #: include/options-config.php:6667
-#, fuzzy
 msgid "Enter the text that displays in the Copyright Bar"
-msgstr "Geben Sie den Text ein, der in der Copyright-Leiste angezeigt wird."
+msgstr "Geben Sie den Text ein, der in der Copyright-Leiste angezeigt wird"
 
 #: include/options-config.php:6674
 #, fuzzy
@@ -5824,33 +5592,28 @@ msgid "Footer Logo"
 msgstr "Footer Logo"
 
 #: include/options-config.php:6677
-#, fuzzy
 msgid "Select Image to show with the Page Footer"
-msgstr "Wählen Sie Bild aus, das mit der Seitenfußzeile angezeigt werden soll."
+msgstr "Wählen Sie Bild aus, das mit dem Footer angezeigt werden soll"
 
 #: include/options-config.php:6700
 msgid "Theme Author Information"
 msgstr "Theme Autor Information"
 
 #: include/options-config.php:6708
-#, fuzzy
 msgid "Footer Text Section Heading"
-msgstr "Überschrift des Fußzeilentextabschnitts"
+msgstr "Footer Text Bereichsüberschrift"
 
 #: include/options-config.php:6716
-#, fuzzy
 msgid "Footer Text Section Content"
-msgstr "Inhalt des Fußzeilentextabschnitts"
+msgstr "Footer Text Bereichtsinhalt"
 
 #: include/options-config.php:6724
-#, fuzzy
 msgid "Footer Button Text"
-msgstr "Fußzeile-Taste Text"
+msgstr "Footer Button Text"
 
 #: include/options-config.php:6732
-#, fuzzy
 msgid "Footer Button URL"
-msgstr "URL der Fußzeile-Schaltfläche"
+msgstr "Footer Button URL"
 
 #: include/options-config.php:6743
 msgid "Documentation"
@@ -5884,9 +5647,8 @@ msgid "Top in Search Page Ads"
 msgstr "Top in Suchseite Anzeigen"
 
 #: include/paypal/form-handler.php:194
-#, fuzzy
 msgid "Enjoy using our features of Listings subscription in very cheap price"
-msgstr "Nutzen Sie unsere Abos mit sehr günstigem Preis"
+msgstr "Nutzen Sie unsere Features des Abonnements für Einträge zu sehr günstigen Preisen"
 
 #: include/paypal/paypalapi.php:45 include/paypal/paypalapi2.php:54
 msgid "listing title"
@@ -6045,9 +5807,8 @@ msgid "Update Required"
 msgstr "Aktualisierung erforderlich"
 
 #: include/plugins/class-tgm-plugin-activation.php:1019
-#, fuzzy
 msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
-msgstr "Das Remote-Plugin-Paket enthält keinen Ordner mit dem gewünschten Kürzel und eine Umbenennung hat nicht funktioniert."
+msgstr "Das Remote-Plugin-Paket enthält keinen Ordner mit dem gewünschten Slug, und die Umbenennung hat nicht funktioniert."
 
 #: include/plugins/class-tgm-plugin-activation.php:1019
 #: include/plugins/class-tgm-plugin-activation.php:1022
@@ -6056,9 +5817,8 @@ msgid "Please contact the plugin provider and ask them to package their plugin a
 msgstr "Bitte kontaktieren Sie den Plugin-Anbieter und bitten Sie ihn, seine Plugins nach den Wordpress-Richtlinien zu komprimieren."
 
 #: include/plugins/class-tgm-plugin-activation.php:1022
-#, fuzzy
 msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
-msgstr "Das Remote-Plugin-Paket besteht aus mehreren Dateien, aber die Dateien sind nicht in einem Ordner gepackt."
+msgstr "Das Remote-Plugin-Paket besteht aus mehr als einer Datei, aber die Dateien sind nicht in einen Ordner gepackt."
 
 #: include/plugins/class-tgm-plugin-activation.php:1206
 #: include/plugins/class-tgm-plugin-activation.php:3033
@@ -6115,9 +5875,8 @@ msgid "Active"
 msgstr "Aktiv"
 
 #: include/plugins/class-tgm-plugin-activation.php:2412
-#, fuzzy
 msgid "Required Update not Available"
-msgstr "Erforderliche Aktualisierung nicht verfügbar"
+msgstr "Erforderliches Update nicht verfügbar"
 
 #: include/plugins/class-tgm-plugin-activation.php:2415
 #, fuzzy
@@ -6185,9 +5944,8 @@ msgid "Available version:"
 msgstr "Verfügbare Version:"
 
 #: include/plugins/class-tgm-plugin-activation.php:2618
-#, fuzzy
 msgid "No plugins to install, update or activate."
-msgstr "Keine Plugins zum installieren, aktualisieren oder aktivieren."
+msgstr "Keine Plugins zum Installieren, Aktualisieren oder Aktivieren."
 
 #: include/plugins/class-tgm-plugin-activation.php:2632
 #, fuzzy
@@ -6499,9 +6257,8 @@ msgid "Features"
 msgstr "Features"
 
 #: include/search-filter.php:251 include/search-filter.php:1282
-#, fuzzy
 msgid "in"
-msgstr "In"
+msgstr "in"
 
 #: include/search-filter.php:253
 #, fuzzy
@@ -6602,14 +6359,12 @@ msgid "Ready!"
 msgstr "Bereit!"
 
 #: include/setup/envato_setup.php:364
-#, fuzzy
 msgid "Listingpro &rsaquo; Setup Wizard"
-msgstr "Listingpro &rsaquo; Setup Wizard"
+msgstr "Listingpro &rsaquo; Installationsassistent"
 
 #: include/setup/envato_setup.php:386
-#, fuzzy
 msgid "Return to the WordPress Dashboard"
-msgstr "Zur WordPress-Übersichtsseite zurückkehren"
+msgstr "﻿Zurück zum WordPress-Dashboard"
 
 #: include/setup/envato_setup.php:442
 #, fuzzy
@@ -6617,9 +6372,8 @@ msgid "Welcome to the Easy Setup Assistant for %s."
 msgstr "Willkommen beim einfachen Installationsassistenten für %s."
 
 #: include/setup/envato_setup.php:443
-#, fuzzy
 msgid "It looks like you may have recently upgraded to this theme. Great! This setup wizard will help ensure all the default settings are correct. It will also show some information about your new website and support options."
-msgstr "Es sieht so aus, als hättest du kürzlich auf dieses Thema aufgerüstet. Großartig! Dieser Setup-Assistent wird dazu beitragen, dass alle Standardeinstellungen korrekt sind. Es wird auch einige Informationen über Ihre neue Website und Support-Optionen geben."
+msgstr "Es sieht so aus, als ob Sie kürzlich auf dieses Design umgestiegen sind. Großartig! Dieser Einrichtungsassistent hilft Ihnen, sicherzustellen, dass alle Standardeinstellungen korrekt sind. Er zeigt auch einige Informationen über Ihre neue Website und Support-Optionen an."
 
 #: include/setup/envato_setup.php:446
 msgid "Let's Go!"
@@ -6631,9 +6385,8 @@ msgid "Not right now"
 msgstr "Nicht jetzt"
 
 #: include/setup/envato_setup.php:456
-#, fuzzy
 msgid "Welcome to the Easy Setup Assistant! for %s."
-msgstr "Willkommen beim Easy Setup Assistant! Für %s."
+msgstr "Willkommen beim einfachen Installationsassistenten für %s."
 
 #: include/setup/envato_setup.php:457
 #, fuzzy
@@ -6647,9 +6400,8 @@ msgid "LATER"
 msgstr "SPÄTER"
 
 #: include/setup/envato_setup.php:468
-#, fuzzy
 msgid "Run Setup Wizard Again"
-msgstr "Führen Sie den Setup-Assistenten erneut aus"
+msgstr "Führen Sie den Installationsassistenten erneut aus"
 
 #: include/setup/envato_setup.php:475
 #, fuzzy
@@ -6682,9 +6434,8 @@ msgid "First, let us help you unpack."
 msgstr "Zuerst helfen wir Ihnen beim Entpacken."
 
 #: include/setup/envato_setup.php:629
-#, fuzzy
 msgid "Good news! All plugins are already installed and up to date. Please continue."
-msgstr "Gute Nachrichten! Alle Plugins sind bereits installiert und aktuell. Bitte fahre fort."
+msgstr "Gute Nachrichten! Alle Plugins sind bereits installiert und aktuell. Bitte fahren Sie fort."
 
 #: include/setup/envato_setup.php:635
 #, fuzzy
@@ -6718,9 +6469,8 @@ msgid "Import Content"
 msgstr "Importieren Inhalt"
 
 #: include/setup/envato_setup.php:955
-#, fuzzy
 msgid "Which Pre-Built Demo Style You Like?"
-msgstr "Welchen vorgefertigten Demo-Stil mögen Sie?"
+msgstr "Welcher vorgefertigte Demo-Stil gefällt Ihnen?"
 
 #: include/setup/envato_setup.php:995 include/setup/envato_setup.php:1001
 #: include/setup/envato_setup.php:1007
@@ -6734,7 +6484,7 @@ msgstr "ÜBERSPRINGEN"
 
 #: include/setup/envato_setup.php:1026
 msgid "ACCEPT"
-msgstr "ANNEHMEN"
+msgstr "AKZEPTIEREN"
 
 #: include/setup/envato_setup.php:1059
 #, fuzzy
@@ -6935,9 +6685,8 @@ msgid "Failed to import %s &#8220;%s&#8221;"
 msgstr "Fehler beim Importieren von %s &#8220;%s&#8221;"
 
 #: include/setup/importer/importer/wordpress-importer.php:870
-#, fuzzy
 msgid "Menu item skipped due to missing menu slug"
-msgstr "Menüeintrag aufgrund fehlender Menü-Verknüpfung übersprungen"
+msgstr "Menüpunkt übersprungen wegen fehlendem Menüeintrag"
 
 #: include/setup/importer/importer/wordpress-importer.php:877
 msgid "Menu item skipped due to invalid menu slug: %s"
@@ -7005,14 +6754,12 @@ msgid "Your claim request has been submitted. Please sit back and relax it may t
 msgstr "Ihr Antrag wurde eingereicht. Bitte lehnen Sie sich zurück und entspannen Sie sich, es kann bis zu einigen Arbeitstagen dauern, bis Ihr Antrag genehmigt wird."
 
 #: include/single-ajax.php:64
-#, fuzzy
 msgid "Sorry!"
-msgstr "Entschuldigung!"
+msgstr "Sorry!"
 
 #: include/single-ajax.php:65
-#, fuzzy
 msgid "You have already submitted claim for this listing"
-msgstr "Sie haben bereits einen Antrag für dieses Angebot eingereicht"
+msgstr "Sie haben bereits einen Antrag für diesen Eintrag eingereicht"
 
 #: include/single-ajax.php:70
 #, fuzzy
@@ -7207,9 +6954,8 @@ msgid "Change Pricing Plan"
 msgstr "Preisplan ändern"
 
 #: include/single-ajax.php:2539
-#, fuzzy
 msgid "Unlimited Listing"
-msgstr "Unbegrenzte Anzeigen"
+msgstr "Unbegrenzte Einträge"
 
 #: include/single-ajax.php:2545 templates/dashboard/campaigns.php:299
 #: templates/dashboard/subscription.php:115
@@ -7230,14 +6976,12 @@ msgid "Go Back"
 msgstr "Zurück"
 
 #: include/single-ajax.php:2690
-#, fuzzy
 msgid "Sorry! there is some error"
-msgstr "Tut mir Leid! Es liegt ein Fehler vor"
+msgstr "Sorry, da ist ein Fehler aufgetreten"
 
 #: include/stripe/stripe-ajax.php:134
-#, fuzzy
 msgid "Sorry! A plan should have a duration for recurring payment"
-msgstr "Tut mir Leid! Ein Preis-Plan sollte eine Dauer für wiederkehrende Zahlung haben"
+msgstr "Sorry! Ein Preis-Plan sollte eine Dauer für wiederkehrende Zahlung haben"
 
 #: include/stripe/stripe-ajax.php:194 include/stripe/stripe-ajax.php:459
 #: include/stripe/stripe-ajax.php:634
@@ -7893,9 +7637,8 @@ msgid "Filters"
 msgstr "Filter"
 
 #: mobile/templates/listing-with-map-app-new.php:426
-#, fuzzy
 msgid "EXCLUSIVE"
-msgstr "Exklusive"
+msgstr "EXKLUSIV"
 
 #: mobile/templates/listing-with-map-app-new.php:453
 #: mobile/templates/listing-with-map-app.php:443
@@ -8180,14 +7923,12 @@ msgstr "Kopieren"
 
 #: mobile/templates/listing_app_view2.php:282 templates/loop-grid-view.php:743
 #: templates/loop-list-view.php:314 templates/loop-list-view.php:578
-#, fuzzy
 msgid "View Menu"
-msgstr "Speisekarte zeigen"
+msgstr "Menü zeigen"
 
 #: mobile/templates/listing_app_view2.php:438
-#, fuzzy
 msgid "RATING"
-msgstr "KLASSIFIZIERUNG"
+msgstr "BEWERTUNG"
 
 #: mobile/templates/listing_app_view2.php:441
 #, fuzzy
@@ -8608,9 +8349,8 @@ msgid "Cost Per Click"
 msgstr "Preis pro Klick"
 
 #: templates/dashboard/active-campaigns.php:83
-#, fuzzy
 msgid "PPD"
-msgstr "Ppd"
+msgstr "PPD"
 
 #: templates/dashboard/active-campaigns.php:85
 msgid "Cost Per Day"
@@ -8704,9 +8444,8 @@ msgid "Purchase Details"
 msgstr "Details zum Kauf"
 
 #: templates/dashboard/active-campaigns.php:549
-#, fuzzy
 msgid "TOTAL BUDGET "
-msgstr "GESAMTBUDGET"
+msgstr "GESAMTBUDGET "
 
 #: templates/dashboard/active-campaigns.php:569
 #: templates/dashboard/active-campaigns.php:621
@@ -8803,9 +8542,8 @@ msgstr "Ich akzeptiere, dass ich alle oben genannten Details vor dem Verfahren �
 #: templates/dashboard/announcements.php:361
 #: templates/dashboard/discounts.php:878 templates/dashboard/events.php:1248
 #: templates/dashboard/menus.php:554
-#, fuzzy
 msgid "Unsaved Event"
-msgstr "Nicht gespeichertes Ereignis"
+msgstr "Nicht gespeichertes Event"
 
 #: templates/dashboard/active-campaigns.php:1071
 msgid "Summary"
@@ -9503,9 +9241,8 @@ msgid "Custom URL (Button)"
 msgstr "Benutzerdefinierte URL (Button)"
 
 #: templates/dashboard/discounts.php:628
-#, fuzzy
 msgid "e.g. http://www.listingprowp.com"
-msgstr "z.B. http://www.stadtmedium.de"
+msgstr "z.B. http://www.listingprowp.com"
 
 #: templates/dashboard/discounts.php:676
 msgid "Create Coupon"
@@ -9613,9 +9350,8 @@ msgid "Create Message"
 msgstr "Nachricht schreiben"
 
 #: templates/dashboard/event-attendees.php:189
-#, fuzzy
 msgid "Enter Your Massage"
-msgstr "Geben Sie Ihre Massage ein"
+msgstr "Geben Sie Ihre Nachricht ein"
 
 #: templates/dashboard/events.php:60 templates/popups.php:177
 #, fuzzy
@@ -9649,9 +9385,8 @@ msgid "add new"
 msgstr "Hinzufügen"
 
 #: templates/dashboard/events.php:198
-#, fuzzy
 msgid "event"
-msgstr "Veranstaltung"
+msgstr "Event"
 
 #: templates/dashboard/events.php:204
 msgid "start time"
@@ -9716,9 +9451,8 @@ msgid "Ticket URL"
 msgstr "URL des Ticket-Webseite"
 
 #: templates/dashboard/events.php:567
-#, fuzzy
 msgid "https://facebook.com/listingprowp"
-msgstr "https://www.facebook.com/Cargo-Dealsde-100844421675110/"
+msgstr "https://facebook.com/listingprowp"
 
 #: templates/dashboard/events.php:979
 msgid "Create New event"
@@ -9803,14 +9537,12 @@ msgid "You must be here for the first time. You will see messages here when user
 msgstr "Sie müssen zum ersten Mal hier sein. Sie werden hier Nachrichten sehen, wenn der Benutzer Sie über ein Formular kontaktiert."
 
 #: templates/dashboard/inbox.php:116
-#, fuzzy
 msgid "Listing : "
-msgstr "Eintrag"
+msgstr "Eintrag : "
 
 #: templates/dashboard/inbox.php:122
-#, fuzzy
 msgid "Phone : "
-msgstr "Telefon: "
+msgstr "Telefon : "
 
 #: templates/dashboard/inbox.php:232
 msgid "There is no replied message"
@@ -10018,9 +9750,8 @@ msgid "Placeholder"
 msgstr "Platzhalter"
 
 #: templates/dashboard/lead_form.php:143 templates/dashboard/lead_form.php:300
-#, fuzzy
 msgid "Minimum Value"
-msgstr "Minimalwert"
+msgstr "Mindestwert"
 
 #: templates/dashboard/lead_form.php:144 templates/dashboard/lead_form.php:154
 #: templates/dashboard/lead_form.php:301 templates/dashboard/lead_form.php:311
@@ -10029,9 +9760,8 @@ msgid "eg.1"
 msgstr "z.B. 1"
 
 #: templates/dashboard/lead_form.php:147 templates/dashboard/lead_form.php:304
-#, fuzzy
 msgid "Maximum Value"
-msgstr "Maximalwert"
+msgstr "Höchstwert"
 
 #: templates/dashboard/lead_form.php:148 templates/dashboard/lead_form.php:158
 #: templates/dashboard/lead_form.php:305 templates/dashboard/lead_form.php:315
@@ -10040,9 +9770,8 @@ msgid "eg.100"
 msgstr "z.B. 100"
 
 #: templates/dashboard/lead_form.php:153 templates/dashboard/lead_form.php:310
-#, fuzzy
 msgid "Default Value"
-msgstr "Standardwert"
+msgstr "Standard-Wert"
 
 #: templates/dashboard/lead_form.php:157 templates/dashboard/lead_form.php:314
 #, fuzzy
@@ -10055,9 +9784,8 @@ msgid "required field"
 msgstr "Pflichtfeld"
 
 #: templates/dashboard/lead_form.php:196
-#, fuzzy
 msgid "no form found"
-msgstr "keine Formular gefunden"
+msgstr "kein Formular gefunden"
 
 #: templates/dashboard/lead_form.php:206
 msgid "Create Form"
@@ -10283,9 +10011,8 @@ msgid "Add new type"
 msgstr "Typ hinzufügen"
 
 #: templates/dashboard/manage-types-groups.php:117
-#, fuzzy
 msgid "Type Name"
-msgstr "Typen Bezeichnung"
+msgstr "Typenbezeichnung"
 
 #: templates/dashboard/manage-types-groups.php:118
 #: templates/dashboard/manage-types-groups.php:151
@@ -10330,9 +10057,8 @@ msgid "menu group"
 msgstr "Menügruppe"
 
 #: templates/dashboard/menu-groups.php:44
-#, fuzzy
 msgid "group text is required"
-msgstr "Gruppentext ist erforderlich"
+msgstr "Gruppen-Text ist erforderlich"
 
 #: templates/dashboard/menu-types.php:21
 msgid "Recent Menu Types"
@@ -10395,9 +10121,8 @@ msgid "Menu not allowed with this listing. Please upgrade your plan."
 msgstr "Das Erstellen von Menüs ist für diesem Eintrag nicht freigeschaltet. Bitte stufen Sie Ihr Paket hoch."
 
 #: templates/dashboard/menus.php:316
-#, fuzzy
 msgid "ONILNE FOOD ORDERING SERVICES"
-msgstr "ONILNE FOOD ORDERING SERVICES"
+msgstr "ONLINE-BESTELLDIENSTE FÜR LEBENSMITTEL"
 
 #: templates/dashboard/menus.php:322
 #, fuzzy
@@ -10405,9 +10130,8 @@ msgid "No Service Added"
 msgstr "Kein Service hinzugefügt"
 
 #: templates/dashboard/menus.php:332 templates/dashboard/menus.php:604
-#, fuzzy
 msgid "e.g SALAD"
-msgstr "z.B. SALAD"
+msgstr "z.B. SALAT"
 
 #: templates/dashboard/menus.php:340
 #, fuzzy
@@ -10438,9 +10162,8 @@ msgid "Menu Item Name"
 msgstr "Menüelementname"
 
 #: templates/dashboard/menus.php:459
-#, fuzzy
 msgid "Ex: $7"
-msgstr "Ex: Nr. 7"
+msgstr "Z.B.: 7€"
 
 #: templates/dashboard/menus.php:464
 #, fuzzy
@@ -10448,9 +10171,8 @@ msgid "Menu Item Description"
 msgstr "Beschreibung des Menüelements"
 
 #: templates/dashboard/menus.php:468
-#, fuzzy
 msgid "e.g. This delicious roasted chicken is marinated in..."
-msgstr "z.B. dieses leckere gebratene Huhn wird in..."
+msgstr "z.B. Dieses köstliche gebratene Huhn wird mariniert in..."
 
 #: templates/dashboard/menus.php:481
 #, fuzzy
@@ -10458,9 +10180,8 @@ msgid "External Menu Item URL"
 msgstr "URL des externen Menüelements"
 
 #: templates/dashboard/menus.php:513
-#, fuzzy
 msgid "Make This Item As Popular Item"
-msgstr "Machen Sie diesen Artikel als beliebtes Element"
+msgstr "Machen Sie diesen Artikel zu einem beliebten Element"
 
 #: templates/dashboard/menus.php:518
 #, fuzzy
@@ -10494,9 +10215,8 @@ msgid "ALL GROUPS"
 msgstr "ALLE GRUPPEN"
 
 #: templates/dashboard/menus.php:633
-#, fuzzy
 msgid "e.g SPICY"
-msgstr "z.B. SPICY"
+msgstr "z.B. SCHARF"
 
 #: templates/dashboard/packages.php:39
 msgid "All Packages"
@@ -10513,9 +10233,8 @@ msgid "trans id"
 msgstr "Trans ID"
 
 #: templates/dashboard/packages.php:54
-#, fuzzy
 msgid "trans date"
-msgstr "Trans-Termin"
+msgstr "Trans-Datum"
 
 #: templates/dashboard/packages.php:55
 #, fuzzy
@@ -10924,9 +10643,8 @@ msgid "Tel"
 msgstr "Tel"
 
 #: templates/footers/footer-app-view-new.php:20
-#, fuzzy
 msgid "FILTERS"
-msgstr "Filter"
+msgstr "FILTER"
 
 #: templates/footers/footer-app-view-new.php:112
 msgid "DIRECTIONS"
@@ -10947,9 +10665,8 @@ msgid "Click To See What Open Now"
 msgstr "Jetzt geöffnet"
 
 #: templates/headers/filters-in-header.php:171
-#, fuzzy
 msgid "Advanced Filters"
-msgstr "Fortgeschrittene Filter"
+msgstr "Erweiterte Filter"
 
 #: templates/headers/header-archive.php:139
 #: templates/headers/header-archive.php:142
@@ -10965,9 +10682,8 @@ msgid "Results For "
 msgstr "Ergebnisse für "
 
 #: templates/headers/header-search.php:238 templates/headers/sidesearch.php:198
-#, fuzzy
 msgid "Keyword"
-msgstr "Suchbegriff"
+msgstr "Schlüsselwort"
 
 #: templates/headers/header-with-bigmenu.php:81
 #: templates/headers/header-with-bigmenu.php:186
@@ -11278,9 +10994,8 @@ msgid "Wifi"
 msgstr "WLAN"
 
 #: templates/search/template_search2.php:89
-#, fuzzy
 msgid "Event"
-msgstr "Veranstaltung"
+msgstr "Event"
 
 #: templates/search/template_search2.php:95
 #, fuzzy
@@ -11311,9 +11026,8 @@ msgid "I am not going"
 msgstr "Ich werde nicht teilnehmen"
 
 #: templates/single-list/claim-form.php:50
-#, fuzzy
 msgid "Choose a Plan to Claim Your Business"
-msgstr "Wähle einen Plan zur Inhaberbeanspruchung"
+msgstr "Wählen Sie einen Plan zur Inanspruchnahme Ihres Unternehmens"
 
 #: templates/single-list/claim-form.php:64
 #: templates/single-list/claim-form.php:295
@@ -11337,9 +11051,8 @@ msgstr "Geschäftliche E-Mail"
 
 #: templates/single-list/claim-form.php:96
 #: templates/single-list/claim-form.php:327
-#, fuzzy
 msgid "Please provide your business email which will be use for claim procedure."
-msgstr "Bitte geben Sie Ihre geschäftliche E-Mail an, die für das Antragsverfahren verwendet wird."
+msgstr "Bitte geben Sie Ihre geschäftliche E-Mail an, die für das Antragsverfahren verwendet werden soll."
 
 #: templates/single-list/claim-form.php:100
 #: templates/single-list/claim-form.php:331
@@ -11488,18 +11201,16 @@ msgid "Validity Details:"
 msgstr "Details Gültigkeit:"
 
 #: templates/single-list/listing-detail-style5/quote.php:11
-#, fuzzy
 msgid "Which services are needed for your event?"
-msgstr "Welche Leistungen werden für Ihre Veranstaltung benötigt?"
+msgstr "Welche Leistungen werden für Ihr Event benötigt?"
 
 #: templates/single-list/listing-detail-style5/quote.php:34
 msgid "What type of event are you planning?"
 msgstr "Welche Art von Event planst Du?"
 
 #: templates/single-list/listing-detail-style5/quote.php:45
-#, fuzzy
 msgid "Name of the City where event is taking place"
-msgstr "Name der Stadt, in der die Veranstaltung stattfindet"
+msgstr "Name der Stadt, in der das Event stattfindet"
 
 #: templates/single-list/listing-detail-style5/quote.php:50
 msgid "What is the address?"
@@ -11524,9 +11235,8 @@ msgid "How long will the vendor be needed? "
 msgstr "Wie lange wird der Verkäufer benötigt? "
 
 #: templates/single-list/listing-detail-style5/quote.php:86
-#, fuzzy
 msgid "Tell me more about your event?"
-msgstr "Erzählen Sie mir mehr über Ihre Veranstaltung?"
+msgstr "Erzählen Sie mir mehr über Ihr Event?"
 
 #: templates/single-list/listing-detail-style5/quote.php:90
 #, fuzzy
