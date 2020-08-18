@@ -373,7 +373,7 @@ msgstr "Telefonnummer"
 
 #: elementor-widgets/checkout.php:14 shortcodes/checkout.php:6
 msgid "Listing Checkout"
-msgstr "Listing Checkout"
+msgstr "Eintrag Checkout"
 
 #: elementor-widgets/checkout.php:35 elementor-widgets/content-boxes.php:46
 #: elementor-widgets/edit-listing.php:35 elementor-widgets/edit-listing.php:488
@@ -503,7 +503,7 @@ msgstr "Beanspruchte Auflistungen"
 #: vc_special_elements.php:2318 vc_special_elements.php:2427
 #: vc_special_elements.php:2547
 msgid "Listing Layout"
-msgstr "Listing Layout"
+msgstr "Eintrag Layout"
 
 #: elementor-widgets/claimed-listings.php:39
 #: elementor-widgets/listing-by.php:95
@@ -737,7 +737,7 @@ msgstr "Repeater-Liste"
 
 #: elementor-widgets/edit-listing.php:14 shortcodes/edit.php:7
 msgid "Edit Listing"
-msgstr "Listing bearbeiten"
+msgstr "Eintrag bearbeiten"
 
 #: elementor-widgets/edit-listing.php:42 elementor-widgets/pricing-plans.php:55
 #: elementor-widgets/submit-listing.php:42 shortcodes/edit.php:23
@@ -787,7 +787,7 @@ msgstr "Abmelden"
 #: elementor-widgets/submit-listing.php:294 shortcodes/edit.php:331
 #: shortcodes/submit.php:275
 msgid "or continue below and start submission."
-msgstr "oder ein neues Listing einreichen."
+msgstr "oder unten fortfahren und neu einreichen."
 
 #: elementor-widgets/edit-listing.php:417 shortcodes/edit.php:391
 msgid "Update & Preview"
@@ -816,7 +816,7 @@ msgstr "Informationen zu Ihrer Praxis / Firma"
 #: shortcodes/edit.php:1404 shortcodes/submit.php:529
 #: shortcodes/submit.php:1091
 msgid "Put your listing title here and tell the name of your business to the world."
-msgstr "Geben Sie hier den Listing Titel ein und den Namen Ihres Unternehmens."
+msgstr "Geben Sie hier den Titel Ihres Eintrags und den Namen Ihres Unternehmens ein."
 
 #: elementor-widgets/edit-listing.php:488
 #: elementor-widgets/submit-listing.php:551
@@ -3698,7 +3698,7 @@ msgstr "<b>Deals, Angebote, Rabatte.</b>"
 
 #: inc/metaboxes-plans.php:1527
 msgid "<b>competitor campaigns</b> on Listing Detail Page"
-msgstr "<b>Mitbewerberkampagnen</b> auf der Listing Detailseite"
+msgstr "<b>Mitbewerberkampagnen</b> auf der Eintrags Detailseite"
 
 #: inc/metaboxes-plans.php:1558
 msgid "<b>featured image</b> on Listing Detail Page"
@@ -4297,7 +4297,7 @@ msgstr "Preisbereich|Preis von|Preis zu"
 
 #: inc/submit-form/submit-form.php:339 inc/submit-form/submit-form.php:620
 msgid "not to say|price from|price to"
-msgstr "nicht zu sagen|Preis von|Preis bis"
+msgstr "Keine Angabe|Preis von|Preis bis"
 
 #: inc/submit-form/submit-form.php:340 inc/submit-form/submit-form.php:621
 msgid "Setting a price range can help attract the right targeted audience and will avoid any awkward situations for both customers and the owner.|Being honest with your customers can build a strong relationship. Dont hesitate to include.|Being honest with your customers can build a strong relationship. Dont hesitate to include."
@@ -4321,7 +4321,7 @@ msgstr "Bilder"
 
 #: inc/submit-form/submit-form.php:524
 msgid "Listing Titleee *"
-msgstr "Listing Titel *"
+msgstr "Eintrag Titel *"
 
 #: inc/subscriptions.php:173 inc/subscriptions.php:200
 msgid "Subscriptions"
@@ -4333,7 +4333,7 @@ msgstr "User"
 
 #: inc/subscriptions.php:231 inc/subscriptions.php:391
 msgid "Listing"
-msgstr "Listing"
+msgstr "Eintrag"
 
 #: inc/subscriptions.php:232 inc/subscriptions.php:392
 msgid "Subscription"
@@ -4584,7 +4584,7 @@ msgstr "Anzahl der Einträge"
 #: plugin.php:173
 msgctxt "post type general name"
 msgid "Listings"
-msgstr "Einräge"
+msgstr "Einträge"
 
 #: plugin.php:174
 msgctxt "post type singular name"
@@ -5069,7 +5069,7 @@ msgstr "unbegrenzt"
 #: templates/pricing/loop/vertical_view_8.php:146
 #: templates/pricing/loop/vertical_view_9.php:223
 msgid "Per Listing"
-msgstr "Pro Listing"
+msgstr "Pro Eintrag"
 
 #: templates/pricing/loop/claim_plans.php:263
 #: templates/pricing/loop/horizontal_view_1.php:219
@@ -5102,7 +5102,7 @@ msgstr "Pro Paket "
 #: templates/pricing/loop/horizontal_view_2.php:249
 #: templates/pricing/loop/horizontal_view_2.php:271
 msgid "Per Listing "
-msgstr "Pro Listing "
+msgstr "Pro Eintrag "
 
 #: templates/pricing/loop/claim_plans.php:405
 #: templates/pricing/loop/claim_plans.php:408
@@ -5190,7 +5190,7 @@ msgstr "Lorem ipsum dolor sit amet, lorem sit."
 #: templates/pricing/loop/vertical_view_8.php:406
 #: templates/pricing/loop/vertical_view_9.php:430
 msgid "Max. Listings : "
-msgstr "Max. Listings: "
+msgstr "Max. Einträge: "
 
 #: templates/pricing/loop/claim_plans.php:428
 #: templates/pricing/loop/horizontal_view_2.php:404
@@ -5203,7 +5203,7 @@ msgstr "Max. Listings: "
 #: templates/pricing/loop/vertical_view_8.php:413
 #: templates/pricing/loop/vertical_view_9.php:437
 msgid "Max. Listings : Unlimited"
-msgstr "Max. Listings: unbegrenzt"
+msgstr "Max. Einträge: unbegrenzt"
 
 #: templates/pricing/loop/claim_plans.php:437
 #: templates/pricing/loop/horizontal_view_1.php:379
@@ -5488,7 +5488,7 @@ msgstr "Unbegrenzt"
 #: templates/pricing/loop/vertical_view_7.php:290
 #: templates/pricing/loop/vertical_view_8.php:289
 msgid " Listings"
-msgstr " Listings"
+msgstr " Einträge"
 
 #: templates/pricing/loop/vertical_view_2.php:744
 #: templates/pricing/loop/vertical_view_3.php:290
@@ -5496,7 +5496,7 @@ msgstr " Listings"
 #: templates/pricing/loop/vertical_view_7.php:295
 #: templates/pricing/loop/vertical_view_8.php:294
 msgid "Listings : Unlimited"
-msgstr "Listings: unbegrenzt"
+msgstr "Einträge: unbegrenzt"
 
 #: templates/pricing/loop/vertical_view_2.php:882
 #: templates/pricing/loop/vertical_view_2.php:888
@@ -5907,7 +5907,7 @@ msgstr "Es wird die Einträge in Werbeanzeigen zeigen"
 
 #: widgets/widget_ads_listing.php:33 widgets/widget_most_viewed.php:31
 msgid "Number of Listings:"
-msgstr "Anzahl Listings:"
+msgstr "Anzahl Einträge:"
 
 #: widgets/widget_ads_listing.php:35
 msgid "Ads listings will show in sidebar in \"random\" order"
