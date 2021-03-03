@@ -1,0 +1,371 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ListingPro Lead Form\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-27 06:43+0000\n"
+"PO-Revision-Date: 2021-02-23 15:37-0300\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2\n"
+
+#: form-builder/lead_form.php:10
+msgid "1.0"
+msgstr ""
+
+#: templates/lead_form.php:430
+msgid "Add form feild"
+msgstr "Agregar campo de formulario"
+
+#: templates/lead_form.php:445
+msgid "Add new "
+msgstr "Añadir nuevo"
+
+#: templates/lead_form.php:55
+msgid "add new form"
+msgstr "agregar nuevo formulario"
+
+#: plugin.php:235
+msgid "Add New Form Field"
+msgstr "Agregar nuevo campo de formulario"
+
+#: form-builder/lead_form.php:62
+msgid "Add New Form Fields"
+msgstr "Agregar nuevos campos de formulario"
+
+#: templates/lead_form.php:51
+msgid "All Leads Form"
+msgstr "Formulario de todos los clientes potenciales"
+
+#: customizer-popups.php:55
+msgid "Are you sure you want to delete this block?"
+msgstr "¿Estás segur@ de que quieres eliminar este bloque?"
+
+#: customizer-popups.php:33
+msgid "Are you sure you want to reset this template?"
+msgstr "¿Estás seguro de que quieres restablecer esta plantilla?"
+
+#: form-builder/form-field-functions.php:730
+msgid "Browse"
+msgstr "Vistazo"
+
+#: form-builder/lead_form.php:163 templates/lead_form.php:26
+#: templates/lead_form.php:195 templates/lead_form.php:209
+#: templates/lead_form.php:362 templates/lead_form.php:378
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: customizer-popups.php:15 customizer-popups.php:37 customizer-popups.php:59
+#: plugin.php:302
+msgid "Cancel & Close"
+msgstr "Cancelar y cerrar"
+
+#: plugin.php:265 form-builder/lead_form.php:104 templates/lead_form.php:128
+#: templates/lead_form.php:296
+msgid "Checkbox"
+msgstr ""
+
+#: form-builder/form-field-functions.php:426
+msgid "Contact with business owner"
+msgstr "Contacta con el dueño del negocio"
+
+#: templates/lead_form.php:232
+msgid "Create Form"
+msgstr "Crear formulario"
+
+#. Author of the plugin
+msgid "CridioStudio (Dev Team)"
+msgstr ""
+
+#: plugin.php:261 form-builder/lead_form.php:100 templates/lead_form.php:124
+#: templates/lead_form.php:292
+msgid "Date"
+msgstr "Fecha"
+
+#: plugin.php:263 form-builder/lead_form.php:102 templates/lead_form.php:126
+#: templates/lead_form.php:294
+msgid "Date-Time Local"
+msgstr "Fecha-hora local"
+
+#: form-builder/lead_form.php:55
+msgid "Default Fields"
+msgstr "Campos predeterminados"
+
+#: templates/lead_form.php:390
+msgid "Default Form Feilds"
+msgstr "Campos de formulario predeterminados"
+
+#: plugin.php:292 form-builder/lead_form.php:144 templates/lead_form.php:176
+#: templates/lead_form.php:343
+msgid "Default Value"
+msgstr "Valor por defecto"
+
+#: customizer-popups.php:60 templates/lead_form.php:27
+#: templates/lead_form.php:90
+msgid "Delete"
+msgstr "Borrar"
+
+#: form-builder/lead_form.php:45
+msgid ""
+"Disable/enable the ability for users to create there own lead forms from the "
+"dashboard."
+msgstr ""
+"Deshabilite / habilite la capacidad de los usuarios para crear sus propios "
+"formularios de clientes potenciales desde el tablero."
+
+#: plugin.php:266 form-builder/lead_form.php:105 templates/lead_form.php:129
+#: templates/lead_form.php:297
+msgid "Dropdown"
+msgstr "Desplegable"
+
+#: templates/lead_form.php:89
+msgid "Edit"
+msgstr "Editar"
+
+#: templates/lead_form.php:167 templates/lead_form.php:177
+#: templates/lead_form.php:334 templates/lead_form.php:344
+msgid "eg.1"
+msgstr "ej,1"
+
+#: templates/lead_form.php:171 templates/lead_form.php:181
+#: templates/lead_form.php:338 templates/lead_form.php:348
+msgid "eg.100"
+msgstr "ej,100"
+
+#: plugin.php:258 form-builder/lead_form.php:58 form-builder/lead_form.php:97
+#: templates/lead_form.php:121 templates/lead_form.php:249
+#: templates/lead_form.php:289 templates/lead_form.php:406
+msgid "Email"
+msgstr ""
+
+#: form-builder/lead_form.php:40
+msgid "Enable/Disable form on dashboard"
+msgstr "Activar / desactivar formulario en el panel"
+
+#: form-builder/lead_form.php:107 templates/lead_form.php:131
+#: templates/lead_form.php:299
+msgid "File (coming soon)"
+msgstr "Archivo (próximamente)"
+
+#: templates/lead_form.php:138 templates/lead_form.php:306
+msgid "Full Name"
+msgstr "Nombre Completo"
+
+#: plugin.php:354
+msgid "Help"
+msgstr "Ayuda"
+
+#. Author URI of the plugin
+msgid "http://www.cridio.io"
+msgstr "https://www.mimapa.cl"
+
+#: form-builder/form-field-functions.php:234
+#: form-builder/form-field-functions.php:381
+#: form-builder/form-field-functions.php:481
+msgid "I Agree"
+msgstr "Acepto la política de privacidad al enviar este formulario."
+
+#: plugin.php:247 form-builder/lead_form.php:113 templates/lead_form.php:137
+#: templates/lead_form.php:305
+msgid "Label"
+msgstr "Etiqueta"
+
+#: plugin.php:75 plugin.php:77 form-builder/lead_form.php:10
+#: form-builder/lead_form.php:69
+msgid "Lead Form"
+msgstr "Formulario de cliente potencial"
+
+#: templates/lead_form.php:62
+msgid "LISTING NAME"
+msgstr "Nombre de Anuncio"
+
+#. Name of the plugin
+msgid "ListingPro Lead Form"
+msgstr "Formulario de cliente potencial"
+
+#: plugin.php:288 form-builder/lead_form.php:138 templates/lead_form.php:170
+#: templates/lead_form.php:337
+msgid "Maximum Value"
+msgstr "Valor máximo"
+
+#: form-builder/lead_form.php:60 templates/lead_form.php:267
+#: templates/lead_form.php:424
+msgid "Message"
+msgstr "Mensaje"
+
+#: plugin.php:284 form-builder/lead_form.php:134 templates/lead_form.php:166
+#: templates/lead_form.php:333
+msgid "Minimum Value"
+msgstr "Valor mínimo"
+
+#: plugin.php:275 form-builder/lead_form.php:125 templates/lead_form.php:152
+#: templates/lead_form.php:319
+msgid "Multi Select"
+msgstr "Selección múltiple"
+
+#: plugin.php:251 form-builder/lead_form.php:57 form-builder/lead_form.php:117
+#: templates/lead_form.php:141 templates/lead_form.php:142
+#: templates/lead_form.php:240 templates/lead_form.php:309
+#: templates/lead_form.php:310 templates/lead_form.php:397
+msgid "Name"
+msgstr "Nombre"
+
+#: templates/lead_form.php:443
+msgid "Nothing but this golden trophy!"
+msgstr "¡Por ahora nada por acá sigue conociendo tu panel de control!"
+
+#: plugin.php:327
+msgid "OK!"
+msgstr ""
+
+#: plugin.php:281
+msgid "one per line in this format value|name"
+msgstr "uno por línea en este formato valor | nombre"
+
+#: plugin.php:279 form-builder/lead_form.php:121 templates/lead_form.php:145
+#: templates/lead_form.php:313
+msgid "Options"
+msgstr "Opciones"
+
+#: plugin.php:259 form-builder/lead_form.php:59 form-builder/lead_form.php:98
+#: templates/lead_form.php:122 templates/lead_form.php:258
+#: templates/lead_form.php:290 templates/lead_form.php:415
+msgid "Phone"
+msgstr "Teléfono"
+
+#: plugin.php:271 form-builder/lead_form.php:129 templates/lead_form.php:161
+#: templates/lead_form.php:162 templates/lead_form.php:328
+#: templates/lead_form.php:329
+msgid "Placeholder"
+msgstr "Marcador de posición"
+
+#: plugin.php:264 form-builder/lead_form.php:103 templates/lead_form.php:127
+#: templates/lead_form.php:295
+msgid "Radio"
+msgstr ""
+
+#: plugin.php:267 form-builder/lead_form.php:106 templates/lead_form.php:130
+#: templates/lead_form.php:298
+msgid "Range"
+msgstr "Rango"
+
+#: plugin.php:243
+msgid "Required"
+msgstr "Requerido"
+
+#: form-builder/lead_form.php:155 templates/lead_form.php:187
+#: templates/lead_form.php:354
+msgid "required field"
+msgstr "campo requerido"
+
+#: customizer-popups.php:38 plugin.php:356
+msgid "Reset"
+msgstr "Resetear"
+
+#: form-builder/lead_form.php:164
+msgid "save"
+msgstr "guardar"
+
+#: customizer-popups.php:16 plugin.php:355
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: plugin.php:303
+msgid "Save Field"
+msgstr "Guardar campo"
+
+#: templates/lead_form.php:196 templates/lead_form.php:363
+msgid "save field"
+msgstr "guardar campo"
+
+#: templates/lead_form.php:210 templates/lead_form.php:379
+msgid "save form"
+msgstr "guardar formulario"
+
+#: form-builder/lead_form.php:90 templates/lead_form.php:114
+#: templates/lead_form.php:282
+msgid "Select a Field Type"
+msgstr "Seleccione un tipo de campo"
+
+#: templates/lead_form.php:372 templates/lead_form.php:374
+msgid "Select Listing"
+msgstr "Seleccionar Anuncio"
+
+#: form-builder/form-field-functions.php:244
+#: form-builder/form-field-functions.php:255
+#: form-builder/form-field-functions.php:391
+#: form-builder/form-field-functions.php:401
+#: form-builder/form-field-functions.php:491
+#: form-builder/form-field-functions.php:502
+msgid "Send"
+msgstr "Enviar"
+
+#: plugin.php:342
+msgid "Settings Saved!"
+msgstr "¡Ajustes guardados!"
+
+#: plugin.php:296 form-builder/lead_form.php:148 templates/lead_form.php:180
+#: templates/lead_form.php:347
+msgid "Step Value"
+msgstr "Valor de paso"
+
+#: plugin.php:345
+msgid "Template has changed. You should save it!"
+msgstr "La plantilla ha cambiado. ¡Deberías guardarla!"
+
+#: plugin.php:257 form-builder/lead_form.php:96 templates/lead_form.php:120
+#: templates/lead_form.php:288
+msgid "Text"
+msgstr "Texto"
+
+#. Description of the plugin
+msgid ""
+"This plugin allows easy customization of Archive & Listing Pages.Also giving "
+"the ability to create custom Lead Forms. Only compatible With products By "
+"CridioStudio."
+msgstr ""
+"Este complemento permite una fácil personalización de las páginas de archivo "
+"y lista, y también permite crear formularios de clientes potenciales "
+"personalizados."
+
+#: plugin.php:262 form-builder/lead_form.php:101 templates/lead_form.php:125
+#: templates/lead_form.php:293
+msgid "Time"
+msgstr "Hora"
+
+#: plugin.php:255
+msgid "Type"
+msgstr "Tipo"
+
+#: plugin.php:260 form-builder/lead_form.php:99 templates/lead_form.php:123
+#: templates/lead_form.php:291
+msgid "Url"
+msgstr ""
+
+#: form-builder/form-field-functions.php:238
+#: form-builder/form-field-functions.php:385
+#: form-builder/form-field-functions.php:485
+msgid ""
+"You agree & accept our Terms & Conditions for posting this information?."
+msgstr ""
+"¿Está de acuerdo y acepta nuestros Términos y condiciones para publicar esta "
+"información?"
+
+#: templates/lead_form.php:444
+msgid ""
+"You must be here for the first time. If you like to add some thing, click "
+"the button below."
+msgstr ""
+"Debes estar aquí por primera vez. Si deseas agregar algo, haz clic en el "
+"botón de abajo."
+
+#: form-builder/form-field-functions.php:270
+#: form-builder/form-field-functions.php:414
+#: form-builder/form-field-functions.php:517
+msgid "Your request has been submitted successfully."
+msgstr "Su solicitud se ha enviado correctamente."
