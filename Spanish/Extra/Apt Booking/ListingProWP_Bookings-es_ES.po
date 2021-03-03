@@ -1,0 +1,434 @@
+# Loco Gettext template
+msgid ""
+msgstr ""
+"Project-Id-Version: listingpro-bookings\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-02 20:10+0500\n"
+"POT-Revision-Date: Tue Mar 08 2016 16:05:54 GMT+0500 (Pakistan Standard "
+"Time)\n"
+"PO-Revision-Date: 2021-02-23 15:32-0300\n"
+"Language-Team: Emraan Cheema\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;"
+"_nx_js:1,2,3c;esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;"
+"esc_attr_x:1,2c;esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;"
+"transChoice:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: \n"
+"Language: es\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: listingpro-bookings.php:118
+msgctxt "post type general name"
+msgid "Appointments"
+msgstr "Reservas"
+
+#: listingpro-bookings.php:119
+msgctxt "post type singular name"
+msgid "Booking"
+msgstr "Reserva"
+
+#: listingpro-bookings.php:120
+msgctxt "admin menu"
+msgid "Appointments"
+msgstr "Reservas"
+
+#: listingpro-bookings.php:121
+msgctxt "add new on admin bar"
+msgid "Booking"
+msgstr "Reserva"
+
+#: listingpro-bookings.php:122
+msgctxt "review"
+msgid "Add New"
+msgstr "Agregar nuevo "
+
+#: listingpro-bookings.php:123
+msgid "Add New Booking"
+msgstr "Agregar nueva reserva"
+
+#: listingpro-bookings.php:124
+msgid "New Booking"
+msgstr "Nueva reserva"
+
+#: listingpro-bookings.php:125
+msgid "Edit Booking"
+msgstr "Editar reserva"
+
+#: listingpro-bookings.php:126
+msgid "View Booking"
+msgstr "Ver Reserva"
+
+#: listingpro-bookings.php:127
+msgid "All Bookings"
+msgstr "Todas las reservas"
+
+#: listingpro-bookings.php:128
+msgid "Search Bookings"
+msgstr "Buscar Reservas"
+
+#: listingpro-bookings.php:129
+msgid "Parent Bookings:"
+msgstr "Reservas para padres:"
+
+#: listingpro-bookings.php:130
+msgid "No Bookings found."
+msgstr "No se encontraron reservas."
+
+#: listingpro-bookings.php:131
+msgid "No Booking found in Trash."
+msgstr "No se encontró ninguna reserva en la papelera."
+
+#: listingpro-bookings.php:137
+msgid "Description."
+msgstr "Descripción."
+
+#: listingpro-bookings.php:369
+msgid "DAY OFF"
+msgstr "DÍA LIBRE"
+
+#: listingpro-bookings.php:406
+msgid "New Appointment For"
+msgstr "Nueva reserva para"
+
+#: listingpro-bookings.php:510
+msgid "Title"
+msgstr "Título"
+
+#: listingpro-bookings.php:511 listingpro-bookings.php:625
+#: templates/manage-booking.php:771
+msgid "Email"
+msgstr "Correo Electrónico"
+
+#: listingpro-bookings.php:512 listingpro-bookings.php:627
+#: templates/manage-booking.php:773
+msgid "Phone"
+msgstr "Teléfono"
+
+#: listingpro-bookings.php:513
+msgid "Booking Date"
+msgstr "Fecha para reservar"
+
+#: listingpro-bookings.php:514
+msgid "Booking Start Time"
+msgstr "Hora de inicio de la reserva"
+
+#: listingpro-bookings.php:515
+msgid "Booking End Time"
+msgstr "Hora de término de la reserva"
+
+#: listingpro-bookings.php:516
+msgid "Booking Status"
+msgstr "Estado de la reservación"
+
+#: listingpro-bookings.php:517 listingpro-bookings.php:621
+#: templates/manage-booking.php:765
+msgid "Date"
+msgstr "Fecha"
+
+#: listingpro-bookings.php:618 templates/manage-booking.php:741
+msgid "Appointment Detail"
+msgstr "Detalle de la reserva"
+
+#: listingpro-bookings.php:623 templates/manage-booking.php:768
+msgid "Time"
+msgstr "Tiempo"
+
+#: listingpro-bookings.php:629 templates/manage-booking.php:775
+msgid "Address"
+msgstr "Habla a"
+
+#: listingpro-bookings.php:631 templates/manage-booking.php:777
+msgid "Message"
+msgstr "Mensaje"
+
+#: listingpro-bookings.php:655
+msgid "Appointment Approved"
+msgstr "Reserva Confirmada"
+
+#: listingpro-bookings.php:659
+msgid "Appointment Canceled"
+msgstr "Reserva Cancelada"
+
+#: listingpro-bookings.php:1021
+msgid "You have created a new Appointment"
+msgstr "Ha creado una nueva reserva"
+
+#: listingpro-bookings.php:1026
+msgid "Your Appointment has been approved"
+msgstr "Su reserva ha sido Confirmada"
+
+#: listingpro-bookings.php:1031
+msgid "Your Appointment has been canceled"
+msgstr "Su reserva ha sido Cancelada"
+
+#: listingpro-bookings.php:1036
+msgid "You have received a new Appointment"
+msgstr "Ha recibido una nueva reserva"
+
+#: listingpro-bookings.php:1040
+msgid "Appointment Details"
+msgstr "Detalles de la reserva"
+
+#: listingpro-bookings.php:1041
+msgid "Listing Title:"
+msgstr "Título del Anuncio:"
+
+#: listingpro-bookings.php:1042
+msgid "Appointment Date:"
+msgstr "Día de la reserva:"
+
+#: listingpro-bookings.php:1043
+msgid "Appointment Time:"
+msgstr "Hora de la reserva:"
+
+#: listingpro-bookings.php:1044
+msgid "Appointment Status:"
+msgstr "Estado de la reserva:"
+
+#: listingpro-bookings.php:1048
+msgid "you will be notified if your Appointment is APPROVED or CANCELED."
+msgstr "Se le notificará si su Reserva es CONFIRMADA o CANCELADA."
+
+#: templates/bookings.php:19
+msgid "Book an Appointment Now!"
+msgstr "Hacer una Reserva Ahora!"
+
+#: templates/bookings.php:82
+msgid "Switch to"
+msgstr "VER DISPONIBILIDAD"
+
+#: templates/bookings.php:91
+msgid "August 26,2019"
+msgstr "Febrero 14,2020"
+
+#: templates/bookings.php:93
+msgid "Tuesday"
+msgstr "martes"
+
+#: templates/bookings.php:95
+msgid "9:00am - 10:00am"
+msgstr ""
+
+#: templates/bookings.php:113
+msgid "book it"
+msgstr "RESERVAR"
+
+#: templates/bookings.php:114
+msgid "Appointment confirmation email will be sent upon approval."
+msgstr ""
+"Recibirá un correo electrónico de confirmación una vez sea aprobada la "
+"reserva."
+
+#: templates/bookings.php:122
+msgid "Awesome Job!"
+msgstr "¡Reserva Enviada!"
+
+#: templates/bookings.php:123
+msgid ""
+"We have received your appointment and will send you a confirmation to your "
+"provided email upon approval."
+msgstr ""
+"Hemos recibido su reserva y le enviaremos una confirmación al correo "
+"electrónico que usted ha proporcionado una vez que sea confirmada."
+
+#: templates/manage-booking.php:47 templates/manage-booking.php:192
+msgid "All Appointments"
+msgstr "Todas las reservas"
+
+#: templates/manage-booking.php:49
+msgid "Calender"
+msgstr "Calendario"
+
+#: templates/manage-booking.php:50
+msgid "Calender only displays the approved Appointments."
+msgstr "Calendario solo muestra las reservas aprobadas."
+
+#: templates/manage-booking.php:55
+msgid " Back To Appointments"
+msgstr "Volver a reservas"
+
+#: templates/manage-booking.php:69
+msgid "Start Accepting Appointments Now"
+msgstr "Empiece a aceptar reservas ahora"
+
+#: templates/manage-booking.php:71
+msgid ""
+"Start accepting appointments from all your listings and manage it from a "
+"single dashboard. Provide the details below and you can make changes later "
+"in the settings."
+msgstr ""
+"Comience a aceptar reservas en todos sus anuncios y adminístrelos desde un "
+"solo panel. Proporcione los detalles a continuación y podrá realizar "
+"cambios más adelante en la configuración."
+
+#: templates/manage-booking.php:73
+msgid "Start Now"
+msgstr "Empezar ahora"
+
+#: templates/manage-booking.php:82
+msgid "Setup Appointments"
+msgstr "Configurar reservas"
+
+#: templates/manage-booking.php:94
+msgid "Select the appointment duration for each slot"
+msgstr "Seleccione la duración de la reserva para cada espacio"
+
+#: templates/manage-booking.php:98 templates/manage-booking.php:800
+msgid "15 Minutes"
+msgstr "15 Minutos"
+
+#: templates/manage-booking.php:99 templates/manage-booking.php:801
+msgid "30 Minutes"
+msgstr "30 Minutos"
+
+#: templates/manage-booking.php:100 templates/manage-booking.php:802
+msgid "45 Minutes"
+msgstr "45 Minutos"
+
+#: templates/manage-booking.php:101 templates/manage-booking.php:803
+msgid "60 Minutes"
+msgstr "60 Minutos"
+
+#: templates/manage-booking.php:102 templates/manage-booking.php:804
+msgid "90 Minutes"
+msgstr "90 Minutos"
+
+#: templates/manage-booking.php:112
+msgid "Add all listings to accept appointments"
+msgstr "Agregue todos los anuncios para aceptar reservas"
+
+#: templates/manage-booking.php:148
+msgid "Unsaved Event"
+msgstr "Evento no guardado"
+
+#: templates/manage-booking.php:149
+msgid "save"
+msgstr "salvar"
+
+#: templates/manage-booking.php:150
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: templates/manage-booking.php:162
+msgid "You are all set to accept Appointments"
+msgstr "Ya está todo listo para aceptar reservas"
+
+#: templates/manage-booking.php:164
+msgid "Just sit back and relax while the appointments start rolling in."
+msgstr ""
+"Simplemente siéntese y relájese mientras las reservas comienzan a llegar."
+
+#: templates/manage-booking.php:183
+msgid ""
+"  Appointments are pending approval. Pending Appointments will only show in "
+"calendar upon approval."
+msgstr ""
+"Las reservas están pendientes de aprobación. Las reservas pendientes solo "
+"se mostrarán en el calendario una vez aprobadas."
+
+#: templates/manage-booking.php:199
+msgid "All"
+msgstr "Todas"
+
+#: templates/manage-booking.php:202 templates/manage-booking.php:291
+#: templates/manage-booking.php:384 templates/manage-booking.php:479
+#: templates/manage-booking.php:572 templates/manage-booking.php:672
+msgid "PENDING"
+msgstr "PENDIENTE"
+
+#: templates/manage-booking.php:205 templates/manage-booking.php:293
+#: templates/manage-booking.php:386 templates/manage-booking.php:481
+#: templates/manage-booking.php:574 templates/manage-booking.php:674
+msgid "APPROVED"
+msgstr "APROBADA"
+
+#: templates/manage-booking.php:208 templates/manage-booking.php:295
+#: templates/manage-booking.php:388 templates/manage-booking.php:483
+#: templates/manage-booking.php:576 templates/manage-booking.php:676
+msgid "CANCELED"
+msgstr "CANCELADA"
+
+#: templates/manage-booking.php:211
+msgid "Expired"
+msgstr "Caducado"
+
+#: templates/manage-booking.php:216
+msgid "CALENDAR"
+msgstr "CALENDARIO"
+
+#: templates/manage-booking.php:228 templates/manage-booking.php:318
+#: templates/manage-booking.php:412 templates/manage-booking.php:507
+#: templates/manage-booking.php:600
+msgid "CUSTOMER"
+msgstr "CLIENTE"
+
+#: templates/manage-booking.php:229 templates/manage-booking.php:319
+#: templates/manage-booking.php:413 templates/manage-booking.php:508
+#: templates/manage-booking.php:601
+msgid "LISTING"
+msgstr "ANUNCIO"
+
+#: templates/manage-booking.php:230 templates/manage-booking.php:320
+#: templates/manage-booking.php:414 templates/manage-booking.php:509
+#: templates/manage-booking.php:602
+msgid "DATE"
+msgstr "Fecha: "
+
+#: templates/manage-booking.php:231 templates/manage-booking.php:321
+#: templates/manage-booking.php:415 templates/manage-booking.php:510
+#: templates/manage-booking.php:603
+msgid "TIME SLOT"
+msgstr "TIEMPO"
+
+#: templates/manage-booking.php:232 templates/manage-booking.php:322
+#: templates/manage-booking.php:416 templates/manage-booking.php:511
+#: templates/manage-booking.php:604
+msgid "STATUS"
+msgstr "ESTADO"
+
+#: templates/manage-booking.php:233 templates/manage-booking.php:323
+#: templates/manage-booking.php:417 templates/manage-booking.php:512
+#: templates/manage-booking.php:605
+msgid "ACTION"
+msgstr "ACCIÓN"
+
+#: templates/manage-booking.php:697
+msgid ""
+"Appointments are pending approval. Pending appointments will only show in "
+"calendar upon approval."
+msgstr ""
+"Las reservas están pendientes de aprobación. Las reservas pendientes solo "
+"se mostrarán en el calendario una vez aprobadas."
+
+#: templates/manage-booking.php:706 templates/manage-booking.php:711
+msgid "Details"
+msgstr "Detalles"
+
+#: templates/manage-booking.php:714
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: templates/manage-booking.php:739
+msgid "Registered User"
+msgstr "Usuario registrado"
+
+#: templates/manage-booking.php:783
+msgid "No Appointment Selected"
+msgstr "No se seleccionó una reserva"
+
+#: templates/manage-booking.php:808
+msgid "LISTINGS FOR APPOINTMENTS"
+msgstr "ANUNCIOS PARA RESERVAS"
+
+#: templates/manage-booking.php:823
+msgid "Appointments not allowed for this listing"
+msgstr "Reservas no permitidas para este anuncio"
